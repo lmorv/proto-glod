@@ -4,10 +4,24 @@ This is the repo for Proto-Glod. A game about discovering hidden powers and mess
 
 ## Repo Structure:
 
+> #### Ideation
+> This folder contains work files related to pre-production and conceptualization. Moodboards, concept art, narrative drafts, and design drafts.
+
+> #### Process
+> This folder contains the Development Journal, meta-reflections on intent, and my living To Do list.
+
+> #### ProtoGlod_Game
+> This folder contains the Unreal Engine project.
+
+> ### Art_RAW
+> [I haven't made this folder yet, not sure if I should keep it in the repo]
+
+> ### Builds
+> [I haven't made this folder yet]
 
 ## Artist Statement:
 
-Proto-Glod is a third-person narrative action playground game. The player steps into the shoes of a 5 to 6 year old child in a library, who can change any one object into any any other by storing an imprint of the object in a magical book, then targeting another object in the environment. It's all fun and games until you use your powers on a human. 
+Proto-Glod is a third-person narrative action playground game. The player steps into the shoes of a 5 to 7 year old child in a library, who can change any one object into any any other by storing an imprint of the object in a magical book, then targeting another object in the environment. It's all fun and games until you use your powers on a human. 
 
 Divine forces of Order and Chaos, as well as the human police, are alerted to your existence. And step forth to oppose and aid you in your quest of self discovery and rampant reality-exploitative fun.
 
@@ -16,8 +30,9 @@ Divine forces of Order and Chaos, as well as the human police, are alerted to yo
 
 **Inciting incident:**
 - Player is prompted to use their powers on a human NPC.
+
 **Tone:** 
-- Comical, absurd, existential.
+- Comical, absurd,silly, existential.
 
 **Setting:**
 - Library.

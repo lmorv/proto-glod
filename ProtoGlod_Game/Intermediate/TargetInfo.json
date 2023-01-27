@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProtoGlod_Game",
+			"Path": "C:\\Users\\kisho\\Documents\\GitHub\\proto-glod\\ProtoGlod_Game\\Source\\ProtoGlod_Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProtoGlod_GameEditor",
+			"Path": "C:\\Users\\kisho\\Documents\\GitHub\\proto-glod\\ProtoGlod_Game\\Source\\ProtoGlod_GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
