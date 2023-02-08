@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kisho\\documents\\github\\proto-glod\\protoglod_play\\source\\protoglod_play\\protoglod_play.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kisho\\documents\\github\\proto-glod\\protoglod_play\\intermediate\\build\\win64\\protoglod_playeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\kisho\\documents\\github\\proto-glod\\protoglod_play\\intermediate\\build\\win64\\unrealeditor\\development\\protoglod_play\\definitions.protoglod_play.h",
+            "c:\\users\\kisho\\documents\\github\\proto-glod\\protoglod_play\\source\\protoglod_play\\protoglod_play.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
