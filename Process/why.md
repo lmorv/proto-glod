@@ -1,1 +1,1 @@
-## This are reflections on the deeper questions in life
+## These are reflections on the deeper questions in life

@@ -10,14 +10,14 @@ This is the repo for Proto-Glod. A game about discovering hidden powers and mess
 > #### Process
 > This folder contains the Development Journal, meta-reflections on intent, and my living To Do list.
 
-> #### ProtoGlod_Game
+> #### ProtoGlod_Play
 > This folder contains the Unreal Engine project.
 
 > ### Art_RAW
-> [I haven't made this folder yet, not sure if I should keep it in the repo]
+> [I haven't made this folder yet, not sure if I should keep it in the repo, it could potentially have very large files]
 
 > ### Builds
-> [I haven't made this folder yet]
+> [I haven't made this folder yet, again might have very large files.]
 
 ## Artist Statement:
 
