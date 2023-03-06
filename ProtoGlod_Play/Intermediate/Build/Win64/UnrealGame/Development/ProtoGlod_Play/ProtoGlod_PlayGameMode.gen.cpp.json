@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kisho\\documents\\github\\proto-glod\\protoglod_play\\intermediate\\build\\win64\\unrealgame\\inc\\protoglod_play\\protoglod_playgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kisho\\documents\\github\\proto-glod\\protoglod_play\\intermediate\\build\\win64\\protoglod_play\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\kisho\\documents\\github\\proto-glod\\protoglod_play\\intermediate\\build\\win64\\unrealgame\\development\\protoglod_play\\definitions.protoglod_play.h",
+            "c:\\users\\kisho\\documents\\github\\proto-glod\\protoglod_play\\source\\protoglod_play\\protoglod_playgamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\kisho\\documents\\github\\proto-glod\\protoglod_play\\intermediate\\build\\win64\\unrealgame\\inc\\protoglod_play\\protoglod_playgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

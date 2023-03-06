@@ -16,4 +16,5 @@
 ---
 Bugs:
 - Void Being's feet are not planted on the ground.
+
 - Stack Bot's input controls are completely out of whack.
