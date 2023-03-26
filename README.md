@@ -1,4 +1,4 @@
-# proto-glod: Awakening Inconmensurate
+# proto-glod: Awakening Incommensurate
 
 This is the repo for Proto-Glod. A game about discovering hidden powers and messing with reality. The principal goal of this production is to use the intentional direction of a creative concept to learn about the Unreal development framework in more practical detail, and document the process under the Games As Research MDA methodology. Read on for more info.
 
