@@ -220,3 +220,15 @@ Next on my plate is to do some loose iteration on the level layout and some roug
 And on that note -- relating to the main character: I had the epiphany that, of course, their name is Obsidian. The smoking mirror, a glass darkly, a crystal gem. Obsidian has been a motive since conception, feed into Midjourney as a prompt to generate my AI moodboard, and central to the mystic, mythological themes that I am working with (Tezcatlipoca, the smoking mirror). And I love the parallel to the worldbuilding in Steven Universe, one of my central inspirations. Obsidian in my game could almost be a fan-fiction original character in Rebecca Sugar's universe at this point, and I love that.
 
 Writing that independent study proposal gave me the oportinity to think more deeply about my narrative/fabulation design, and refine my creative goals from a story perspective. I'll upload the pdf to my process folder for reference.
+
+### April 1, 2023 - Character concept work
+    
+Riding on the creative momentum of having found the name of my main character (Hidden in plain sight), I went ahead and put down my ideas for his or her design in concept sketch format (images incoming):
+
+![Obsidian01](proto-glod/Ideation/concept-art/Obsidian__sketches1.png)
+![Obsidian02](proto-glod/Ideation/concept-art/Obsidian__sketches2.png)
+
+This type of work comes pretty easy to me by now. I Am really enjoying exploring the possibilities and multiple interpretations of Obsidian's identity. Makes me want to implement a character select feature in the future and just make a bunch of characters. Or make a customizable character that the player can morph throughout the game.
+
+On the level design front I've been kindda stumped. I feel like maybe the open-endedness of gey-boxing in the engine is maybe to daunting. And I keep fantasizing about making some loose sketches. Maybe I'll try to do that instead before doing a gray-boxing pass. More on that later.
+
