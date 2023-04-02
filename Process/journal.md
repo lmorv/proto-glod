@@ -225,8 +225,8 @@ Writing that independent study proposal gave me the oportinity to think more dee
     
 Riding on the creative momentum of having found the name of my main character (Hidden in plain sight), I went ahead and put down my ideas for his or her design in concept sketch format (images incoming):
 
-![Obsidian01](proto-glod/Ideation/concept-art/Obsidian__sketches1.png)
-![Obsidian02](proto-glod/Ideation/concept-art/Obsidian__sketches2.png)
+![Obsidian01](https://github.com/lmorv/proto-glod/blob/main/Ideation/concept-art/Obsidian__sketches1.png)
+![Obsidian02](https://github.com/lmorv/proto-glod/blob/main/Ideation/concept-art/Obsidian__sketches2.png)
 
 This type of work comes pretty easy to me by now. I Am really enjoying exploring the possibilities and multiple interpretations of Obsidian's identity. Makes me want to implement a character select feature in the future and just make a bunch of characters. Or make a customizable character that the player can morph throughout the game.
 
