@@ -240,3 +240,21 @@ In the mean time I am experimenting with mixing and matching my design process b
 
 The 3D and 2D approaches are clunky in different ways. It's not like perspective drawing is easy. In a lot of ways it's harder that manipulating ready-made, fully rendered 3D solids using the transform gizmo. But it's maybe the fact that a sketch is supposed to look sketchy and undefined VS the possibility of very high levels of precision and perfect fidelity that makes it a much more fluid and freeing tool for me. And there's also the fact that level design exercises the same skills that I would need for architectural and interior design that amps up the difficulty for me, as opposed to character design.
 
+### May 12, 2023 -  Coming back from a break
+
+I am a turtle that never learnt to fly. I am also coming back from a short break in this project. That's not entirely true since I constantly think about it. A lot has happened in my mind that has gone undocumented, so here I will attempt to put myself up to speed on what those things are exactly. Maybe in a series of journals even.
+
+In terms of schedule I am on Week 4 of my Spring Sprint; "Targeting system technical investigation
+- Ray-casting, object detection". I found some really great references on how to do this and I thoroughly documented the process; taking screenshots of the Blueprint graphs in the tutorial, adding comments and instructions and implementing them in my game. I used a note taking app called Obsidian that I really like as a text editing tool, and I think I might create a whole 'Obsdian Vault' for the project and track my tech investigations in this way from now on. It is a very time consuming process tho,  but maybe not a significantly more time consuming than following a video tutorial on it's own. 
+
+I take screenshots as I watch tutorials, trying to catch significant actions in the process, then crop the images to highlight those actions in the UI, then drop them into a text document, then follow the steps in my Unreal project as I write instructions and comments in the document.
+
+One cool thing about Obsidian is that it uses MarkDown to format the text documents, so I could upload a Vault to a github repo and have all the documentation files show up on the browser looking really spiffy and nicely laid out. Obsidian also has a feature to link documents to each other with tags, and can be visualized in a graph view that looks really cool.
+
+### May 16, 2023 - Building a knowledge base
+
+I am building a knowledge base as a means to materialize my technical investigations, using Obsidian (the note taking software, not my character). I feel like I am diving into a whole other worm hole, like in all things. I am finding so many interesting materials online, not always connected to my goals directly, and I could go on studying in this way for ever. I figure I'm gonna keep going until something happens in my mind; I get distracted or fed up. I will keep in mind that I still want to get to executing some design goals within a reasonable time frame, and that there are specific threads of inquiry that I want to follow up on (NPCs, and dialogue systems). 
+
+I have also been having a lot of fun narrowing down the design of my main character; obsidian --sketching them over and over on the Ipad-- and I am really exited to started in the 3d model in the near future. That and the narrative design are becoming my priorities in my mind just because they seem the most fun to me. Level design is a close second, specially since I've been finding a ton of cool modeling and texturing techniques during my tech investigations. So might use that to distract myself from time to time.
+
+I've been thinking that maybe a good approach to fleshing out my story, and to get around the the technical dependencies of development in UE, might be to try to tell the story in a GB Studio game for the Game Boy. It would be a purely narrative, linear game; limited to the platform's mechanics. And that might give me a chance to see how the story plays out in that format.
