@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.5
   },
   "right": {
     "id": "b613e2ffaa063ae3",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Process/journal.md",
+                "file": "Development/narrative-design/Proto-glod - script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Process/journal.md",
+                "file": "Development/narrative-design/Proto-glod - script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/journal.md"
+                "file": "Development/narrative-design/Proto-glod - script.md"
               }
             }
           }
@@ -159,8 +158,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2414ff26cceab1a0",
+  "active": "a5df250930f900e4",
   "lastOpenFiles": [
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/art-source/ps4600.tmp",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/art-source/ps3F86.tmp",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/art-source/ps9FC5.tmp",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/art-source/protoglod_darklit_sprites.psd",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/art-source/protoglod_darklit_backgrounds.psd",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/art-source",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/work-files",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/New folder",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/Proto-Glod_Darklit(Lite).gbsproj",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/project.gbsproj",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/ui/frame.png",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/ui/cursor.png",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/ui",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/sprites/torch.png",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/sprites/signpost.png",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/sprites/savepoint.png",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/sprites/sage.png",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/sprites/rock.png",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/sprites/radio.png",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/sprites/player.png",
+    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/sprites/npc003.png",
+    "Process/journal.md",
     "Development/narrative-design/Proto-glod - script.md",
     "README.md"
   ]

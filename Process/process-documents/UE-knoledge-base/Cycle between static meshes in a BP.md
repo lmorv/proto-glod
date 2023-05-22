@@ -8,9 +8,6 @@ Tags: [[blueprints]]
 - Switching Objects in Unreal Engine 5 Using Blueprints | https://youtu.be/-IzDYXhJg4M
 ---
 
-
-![[CyclingObjects_1.png]]
-
 ![[CyclingObjects_2.png]]
 
 ![[CyclingObjects_3.png]]
@@ -138,3 +135,4 @@ Tags: [[blueprints]]
 ![[CyclingObjects_64.png]]
 
 ![[CyclingObjects_65.png]]
+![[CyclingObjects_1.png]]

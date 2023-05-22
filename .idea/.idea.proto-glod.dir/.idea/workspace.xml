@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c23cf342-e8ec-4564-9178-d19a6f43953d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectId" id="2PhGd0g5KZsI4ucyQU5ogz7359p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\kisho\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\kisho\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\kisho\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c23cf342-e8ec-4564-9178-d19a6f43953d" name="Changes" comment="" />
+      <created>1683901983826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683901983826</updated>
+      <workItem from="1683901985469" duration="10381000" />
+    </task>
+    <task id="LOCAL-00001" summary="ProtoGlod: Technical investigations, game mechanics and knowledge bases&#10;&#10;- I implemented an aim UI to the HUD of the character that changes states if it is hovering over an interactable object. &#10;- I also documented the process from a technical standpoint by taking screenshots of the tutorial where I learned the technique.&#10;- I've gone on a rabbit hole of tech investigations, and I have now incorporated Obsidian, a text editor, to build a 'knowledge base' of everything (or most things) I learn by watching tutorials and adapting the contents to my needs.&#10;- Some re-shuffling of priorities is occuring as I come into contact with the 'tasks' that I planned for in my schedule. I talk more about this in my process journal, and it's an ongoing conversation with myself.">
+      <created>1684331579880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684331579880</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" ProtoGlod: Knoledge base entries and story writing&#10; &#10; - I think I have concluded my tech investigation black hole for now. I have a ton of material related to blueprint communication and interaction implementation to refer back to as a I proceed.&#10; &#10; - I wrote the start of a script for the narrative. I went for a stream of consciousness style where every character's dialogue is mushed together into obsidian's inner dialogue. I'm thinking of this as a way to represent the role of perspective in narrative and the way we process our experiences of the world. Everything filtered through the interface of our own minds. So far I've incorporated only two voices --obsidian's and tezcatlipoca's--  I am curious to see how it turns out when I add more characters in to the mix.">
+      <created>1684718344145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684718344145</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="ProtoGlod: Technical investigations, game mechanics and knowledge bases&#10;&#10;- I implemented an aim UI to the HUD of the character that changes states if it is hovering over an interactable object. &#10;- I also documented the process from a technical standpoint by taking screenshots of the tutorial where I learned the technique.&#10;- I've gone on a rabbit hole of tech investigations, and I have now incorporated Obsidian, a text editor, to build a 'knowledge base' of everything (or most things) I learn by watching tutorials and adapting the contents to my needs.&#10;- Some re-shuffling of priorities is occuring as I come into contact with the 'tasks' that I planned for in my schedule. I talk more about this in my process journal, and it's an ongoing conversation with myself." />
+    <MESSAGE value=" ProtoGlod: Knoledge base entries and story writing&#10; &#10; - I think I have concluded my tech investigation black hole for now. I have a ton of material related to blueprint communication and interaction implementation to refer back to as a I proceed.&#10; &#10; - I wrote the start of a script for the narrative. I went for a stream of consciousness style where every character's dialogue is mushed together into obsidian's inner dialogue. I'm thinking of this as a way to represent the role of perspective in narrative and the way we process our experiences of the world. Everything filtered through the interface of our own minds. So far I've incorporated only two voices --obsidian's and tezcatlipoca's--  I am curious to see how it turns out when I add more characters in to the mix." />
+    <option name="LAST_COMMIT_MESSAGE" value=" ProtoGlod: Knoledge base entries and story writing&#10; &#10; - I think I have concluded my tech investigation black hole for now. I have a ton of material related to blueprint communication and interaction implementation to refer back to as a I proceed.&#10; &#10; - I wrote the start of a script for the narrative. I went for a stream of consciousness style where every character's dialogue is mushed together into obsidian's inner dialogue. I'm thinking of this as a way to represent the role of perspective in narrative and the way we process our experiences of the world. Everything filtered through the interface of our own minds. So far I've incorporated only two voices --obsidian's and tezcatlipoca's--  I am curious to see how it turns out when I add more characters in to the mix." />
+  </component>
+</project>

@@ -258,3 +258,11 @@ I am building a knowledge base as a means to materialize my technical investigat
 I have also been having a lot of fun narrowing down the design of my main character; obsidian --sketching them over and over on the Ipad-- and I am really exited to started in the 3d model in the near future. That and the narrative design are becoming my priorities in my mind just because they seem the most fun to me. Level design is a close second, specially since I've been finding a ton of cool modeling and texturing techniques during my tech investigations. So might use that to distract myself from time to time.
 
 I've been thinking that maybe a good approach to fleshing out my story, and to get around the the technical dependencies of development in UE, might be to try to tell the story in a GB Studio game for the Game Boy. It would be a purely narrative, linear game; limited to the platform's mechanics. And that might give me a chance to see how the story plays out in that format.
+
+### May 22, 2023 -  Wrirting writing writing
+
+Wrote a dialogue stream for the beginng of the game in a sort-of script format. I am really liking this idea of jamming ecery character's dialogue into one stream-of-thought-type text and displaying it all in the same text box. I see it as a way of getting at the theme of polymorphism between things that I am playing around in the mechanics --As in the diferentiation between all the charaters is blured, and there is a chance that everything is happening inside obsidian's imagination. I thing the tone is fitting for a chaos-magic game.
+
+I am having truble however imagining how to progress the narrative past this into 'sequence', and also picturing how i'll manage more than two characters talking in a conversation. I've been using **bold** text to signify Tezcatlipoca's dialogue, and normal text for obsidian. Maybe I'll use different text styles and sizes for other characters, even different fonts once in game. 
+
+I am gonna try to write some more and get to the event-meat of the story, and then protype in GB Studio for a bit. I want to get into some object swapping intection experimentation as well, in UE5. And I thought of a title for the GB Studio story prototype:  Proto-Glod: Darklit (Lite).
