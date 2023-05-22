@@ -1,7 +1,7 @@
 2023-05-16 - 15:31
 
 Type: #atomicIdea 
-Tags: 
+Tags: [[blueprints]]
 
 ---
 **References  / Sources:

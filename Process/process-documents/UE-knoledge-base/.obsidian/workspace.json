@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6987da00adf44e",
+        "id": "616c447e1769a4b5",
         "type": "tabs",
         "children": [
           {
-            "id": "87887576294cde55",
+            "id": "6523cd2b52ce65b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprint Interfaces - Blueprint Communication.md",
+                "file": "Selecting Actors By Looking At Them.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blueprint Interfaces - Blueprint Communication.md",
+                "file": "Selecting Actors By Looking At Them.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blueprint Interfaces - Blueprint Communication.md",
+                "file": "Selecting Actors By Looking At Them.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blueprint Interfaces - Blueprint Communication.md"
+                "file": "Selecting Actors By Looking At Them.md"
               }
             }
           }
@@ -146,16 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87887576294cde55",
+  "active": "6523cd2b52ce65b2",
   "lastOpenFiles": [
-    "Reusable Blueprints - Blueprint Communication.md",
+    "Click Events On Static Mesh Components.md",
+    "Casting - Blueprint Communication.md",
+    "Blueprint Interfaces - Blueprint Communication.md",
+    "ue5-screenshots/HighlightActors_Looking_1.png",
+    "Selecting Actors By Looking At Them.md",
+    "ue5-screenshots/HighlightActors_Looking_137.png",
+    "ue5-screenshots/HighlightActors_Looking_136.png",
+    "ue5-screenshots/HighlightActors_Looking_135.png",
+    "ue5-screenshots/HighlightActors_Looking_134.png",
+    "ue5-screenshots/HighlightActors_Looking_133.png",
+    "ue5-screenshots/HighlightActors_Looking_132.png",
+    "ue5-screenshots/HighlightActors_Looking_131.png",
+    "ue5-screenshots/HighlightActors_Looking_130.png",
+    "ue5-screenshots/HighlightActors_Looking_129.png",
+    "Constructing a Concrete Floor piece & Destroyed variants.md",
+    "Select Actors in-game by clicking on them.md",
+    "ue4][[blueprints.md",
+    "Cycle between static meshes in a BP.md",
+    "Click on Actors - Blueprints.md",
+    "ue5-screenshots/ClickEvents_2.png.~tmp",
+    "ue5-screenshots/ClickEvents_4.png.~tmp",
     "Public Variables - Blueprint Communication.md",
+    "Reusable Blueprints - Blueprint Communication.md",
     "Level Blueprint - Blueprint Communication.md",
     "Interact crosshair dot - UE5 Notes.md",
     "Get Actors - Blueprint Communication.md",
     "Event Dispatchers - Blueprint Communication.md",
-    "Casting - Blueprint Communication.md",
-    "Blueprint Interfaces - Blueprint Communication.md",
     "ue5-screenshots/BlueprintComms_111_BPInterfaces.png.~tmp",
     "ue5-screenshots/BlueprintComms_116_BPInterfaces.png.~tmp",
     "ue5-screenshots/BlueprintComms_123_BPInterfaces.png.~tmp",
@@ -164,19 +183,7 @@
     "ue5-screenshots/BlueprintComms_127_BPInterfaces.png.~tmp",
     "ue5-screenshots/BlueprintComms_128_BPInterfaces.png.~tmp",
     "ue5-screenshots/BlueprintComms_131_BPInterfaces.png.~tmp",
-    "ue5-screenshots/BlueprintComms_138_BPInterfaces.png.~tmp",
-    "ue5-screenshots/BlueprintComms_153_EventDispatchers.png.~tmp",
-    "ue5-screenshots/BlueprintComms_1_LevelBP.png",
     "Templates/Atomic idea - Template.md",
-    "ue5-screenshots/BlueprintComms_186_EventDispatchers.png",
-    "ue5-screenshots/BlueprintComms_211_GetActors.png",
-    "ue5-screenshots/BlueprintComms_210_GetActors.png",
-    "ue5-screenshots/BlueprintComms_209_GetActors.png",
-    "ue5-screenshots/BlueprintComms_208_GetActors.png",
-    "ue5-screenshots/BlueprintComms_207_GetActors.png",
-    "ue5-screenshots/BlueprintComms_206_GetActors.png",
-    "ue5-screenshots/BlueprintComms_205_GetActors.png",
-    "ue5-screenshots/BlueprintComms_204_GetActors.png",
     "Untitled.canvas",
     "2023-05-13.md"
   ]

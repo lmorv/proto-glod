@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "35465a53fd5406ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "88f84665b8b7f2d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ef0c961858dd1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/narrative-design/Proto-glod - script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2414ff26cceab1a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Process/journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22c7346f66ad5ce3",
+    "type": "split",
+    "children": [
+      {
+        "id": "580e45a96919735b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5df250930f900e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34078538fed247cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc80685d3db7738d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b613e2ffaa063ae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "695748dd5631d1ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "857e32e2911f595f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Process/journal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b920d25e4940fac1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Process/journal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d903f513f382924a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ac685bdceb7b494",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Process/journal.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2414ff26cceab1a0",
+  "lastOpenFiles": [
+    "Development/narrative-design/Proto-glod - script.md",
+    "README.md"
+  ]
+}
