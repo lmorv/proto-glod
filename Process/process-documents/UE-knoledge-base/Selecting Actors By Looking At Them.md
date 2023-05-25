@@ -7,39 +7,61 @@ Tags: [[blueprints]], [[interact]]
 **References  / Sources:
 - https://youtu.be/R7oLZL97XYo | How To Select (Highlight) Other Actors/Objects By Looking At Them In Unreal Engine 5
 ---
+## Create a Blueprint inteface:
 
 ![[HighlightActors_Looking_1.png]]
-
+### Rename the inteface to something usefull:
+	
 ![[HighlightActors_Looking_2.png]]
 
-![[HighlightActors_Looking_3.png]]
 
+## - Open the interface asset and create a new function in functions side pannel:
+![[HighlightActors_Looking_3.png]]
+### Give it a propper name
+	
 ![[HighlightActors_Looking_4.png]]
+
+
+## Add another function for deselction:
 
 ![[HighlightActors_Looking_5.png]]
 
+
+## Add yet another function for an 'Is selected?' state check:
 ![[HighlightActors_Looking_6.png]]
 
+
+## Create a new output on the inteface:
 ![[HighlightActors_Looking_7.png]]
 
+
+## Name it 'Is selected?'
 ![[HighlightActors_Looking_8.png]]
 
 ![[HighlightActors_Looking_9.png]]
+
+
+## Create the intecactable Blueprint Actor:
 
 ![[HighlightActors_Looking_10.png]]
 
 ![[HighlightActors_Looking_11.png]]
 
+## Give it a propper name:
+
 ![[HighlightActors_Looking_12.png]]
 
 ![[HighlightActors_Looking_13.png]]
 
+## Add a Decal component:
 ![[HighlightActors_Looking_14.png]]
 
+### Rename it to 'SelectionDecal':
 ![[HighlightActors_Looking_15.png]]
 
 ![[HighlightActors_Looking_16.png]]
 
+## Create the selction Material asset:
 ![[HighlightActors_Looking_17.png]]
 
 ![[HighlightActors_Looking_18.png]]
@@ -55,6 +77,7 @@ Tags: [[blueprints]], [[interact]]
 ![[HighlightActors_Looking_23.png]]
 
 ![[HighlightActors_Looking_24.png]]
+
 
 ![[HighlightActors_Looking_25.png]]
 

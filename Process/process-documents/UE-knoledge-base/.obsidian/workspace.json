@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "5eb58fef2cfb188f",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selecting Actors By Looking At Them.md",
+                "file": "Cycle between static meshes in a BP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selecting Actors By Looking At Them.md",
+                "file": "Cycle between static meshes in a BP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selecting Actors By Looking At Them.md"
+                "file": "Cycle between static meshes in a BP.md"
               }
             }
           }
@@ -159,12 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f45951db06814058",
+  "active": "6523cd2b52ce65b2",
   "lastOpenFiles": [
-    "Cycle between static meshes in a BP.md",
     "Selecting Actors By Looking At Them.md",
-    "Click Events On Static Mesh Components.md",
+    "Select Actors in-game by clicking on them.md",
+    "Cycle between static meshes in a BP.md",
+    "ue5-screenshots/HighlightActors_Looking_12.png.~tmp",
     "Casting - Blueprint Communication.md",
+    "ue5-screenshots/HighlightActors_Looking_2.png",
+    "Click Events On Static Mesh Components.md",
     "Blueprint Interfaces - Blueprint Communication.md",
     "ue5-screenshots/HighlightActors_Looking_1.png",
     "ue5-screenshots/HighlightActors_Looking_137.png",
@@ -175,9 +178,7 @@
     "ue5-screenshots/HighlightActors_Looking_132.png",
     "ue5-screenshots/HighlightActors_Looking_131.png",
     "ue5-screenshots/HighlightActors_Looking_130.png",
-    "ue5-screenshots/HighlightActors_Looking_129.png",
     "Constructing a Concrete Floor piece & Destroyed variants.md",
-    "Select Actors in-game by clicking on them.md",
     "ue4][[blueprints.md",
     "Click on Actors - Blueprints.md",
     "ue5-screenshots/ClickEvents_2.png.~tmp",
@@ -195,7 +196,6 @@
     "ue5-screenshots/BlueprintComms_126_BPInterfaces.png.~tmp",
     "ue5-screenshots/BlueprintComms_127_BPInterfaces.png.~tmp",
     "ue5-screenshots/BlueprintComms_128_BPInterfaces.png.~tmp",
-    "ue5-screenshots/BlueprintComms_131_BPInterfaces.png.~tmp",
     "Templates/Atomic idea - Template.md",
     "Untitled.canvas",
     "2023-05-13.md"
