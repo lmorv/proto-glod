@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/narrative-design/Proto-glod - script.md",
+                "file": "Process/journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/narrative-design/Proto-glod - script.md",
+                "file": "Process/journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/narrative-design/Proto-glod - script.md"
+                "file": "Process/journal.md"
               }
             }
           }
@@ -158,31 +159,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ef0c961858dd1c2",
+  "active": "2414ff26cceab1a0",
   "lastOpenFiles": [
-    "ProtoGlod_Play/Saved/SWSI13675DVYIZ0N4NF7Y33054C92C442D0C59DF3D49ADA1B0DD36.tmp",
-    "ProtoGlod_Play/Saved/WorldPartition/StreamingGeneration-PIE-2023.05.26-14.06.36.log",
-    "Process/process-images/Cycle_Mesh_3.png",
-    "Process/process-images/Cycle_Mesh_2.png",
-    "Process/process-images/Cycle_Mesh_1.png",
-    "Process/process-images/Cycle_Mesh (3).png",
-    "Process/process-images/Cycle_Mesh (2).png",
-    "Process/process-images/Cycle_Mesh (1).png",
-    "Process/process-images/Screenshot (698).png",
-    "Process/process-images/Screenshot (697).png",
-    "Process/process-images/Screenshot (696).png",
-    "ProtoGlod_Play/Saved/WorldPartition/StreamingGeneration-PIE-2023.05.26-13.43.05.log",
-    "ProtoGlod_Play/Saved/WorldPartition/StreamingGeneration-PIE-2023.05.26-13.32.50.log",
-    "ProtoGlod_Play/Saved/SWSI13675DVYIZ0N4NF7Y3_Auto5F1993990496AC8966F8141B9CD2769FF.tmp",
-    "ProtoGlod_Play/Saved/WorldPartition/StreamingGeneration-PIE-2023.05.26-12.38.28.log",
-    "ProtoGlod_Play/Saved/WorldPartition/StreamingGeneration-PIE-2023.05.26-12.04.51.log",
-    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings13177E0544EC9C237B59669BD63FBA2E.tmp",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/CyclingObjects_60.png.~tmp",
-    "ProtoGlod_Play/Saved/ThirdPersonMapA1CA14D844D18DC5DF63B9847B69BE1B.tmp",
-    "ProtoGlod_Play/Saved/Z2ORCA3K5YOH6TCGEINMK83D7EA31543E43F5925EAE09986DF54AB.tmp",
-    "Process/journal.md",
+    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/InteractMarker_Widget.uasset",
+    "Ideation/concept-art/Intrasensora_Layout_Sketch.jpeg",
+    "Ideation/concept-art/Obsidian_sketches4.jpeg",
+    "Ideation/concept-art/Mask_NoGo_Concept.jpeg",
+    "Ideation/concept-art/IMG_0036.jpeg",
+    "Ideation/concept-art/IMG_0035.jpeg",
+    "Ideation/concept-art/IMG_0034.jpeg",
     "Development/narrative-design/Proto-glod - script.md",
-    "Development/narrative-design/Proto-Glod_Darklit(Lite)/assets/ui/frame.png",
+    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/AimMarker.uexp",
+    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/InteractMarker_Widget.uexp",
+    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/InnerMarker.uexp",
+    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/AimMarker_Widget.uexp",
+    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Meshes/InteractableObject_Test.uexp",
+    "Ideation/concept-art/Obsidian__sketchCrop6.png",
+    "Process/process-images/Cycle_Mesh_Sphere.png",
+    "ProtoGlod_Play/Saved/StagedBuilds/Windows/Manifest_DebugFiles_Win64.txt",
+    "ProtoGlod_Play/Saved/StagedBuilds/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh",
+    "ProtoGlod_Play/Saved/StagedBuilds/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat",
+    "ProtoGlod_Play/Saved/StagedBuilds/Windows/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html",
+    "ProtoGlod_Play/Saved/StagedBuilds/Windows/Engine/Extras/GPUDumpViewer",
+    "Ideation/concept-art/Obsidian__sketchCrop5.png",
+    "Ideation/concept-art/Obsidian__sketchCrop4.png",
+    "Process/journal.md",
     "README.md"
   ]
 }
