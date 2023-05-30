@@ -12,7 +12,7 @@ Tags: [[blueprints]], [[interact]]
 	![[HighlightActors_Looking_1.png]]
 	### Rename the inteface to something usefull:
 	![[HighlightActors_Looking_2.png]]
-	### Open the interface asset and create a new function in functions side pannel:
+	### Open the interface asset and create a new function in the functions side pannel:
 	![[HighlightActors_Looking_3.png]]
 	### Give it a propper name:
 	![[HighlightActors_Looking_4.png]]

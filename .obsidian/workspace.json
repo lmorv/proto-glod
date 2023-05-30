@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5202817a0a0ce1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Process/journal.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Process/journal.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/journal.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,8 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2414ff26cceab1a0",
+  "active": "c5202817a0a0ce1e",
   "lastOpenFiles": [
+    "Process/journal.md",
+    "Development/narrative-design/Proto-glod - script.md",
+    "README.md",
+    "Process/process-documents/LeonardoMoralesVega_ProtoGlod_IndependentStudyProposal.pdf",
     "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/InteractMarker_Widget.uasset",
     "Ideation/concept-art/Intrasensora_Layout_Sketch.jpeg",
     "Ideation/concept-art/Obsidian_sketches4.jpeg",
@@ -168,7 +184,6 @@
     "Ideation/concept-art/IMG_0036.jpeg",
     "Ideation/concept-art/IMG_0035.jpeg",
     "Ideation/concept-art/IMG_0034.jpeg",
-    "Development/narrative-design/Proto-glod - script.md",
     "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/AimMarker.uexp",
     "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/InteractMarker_Widget.uexp",
     "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/InnerMarker.uexp",
@@ -179,11 +194,7 @@
     "ProtoGlod_Play/Saved/StagedBuilds/Windows/Manifest_DebugFiles_Win64.txt",
     "ProtoGlod_Play/Saved/StagedBuilds/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh",
     "ProtoGlod_Play/Saved/StagedBuilds/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat",
-    "ProtoGlod_Play/Saved/StagedBuilds/Windows/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html",
-    "ProtoGlod_Play/Saved/StagedBuilds/Windows/Engine/Extras/GPUDumpViewer",
     "Ideation/concept-art/Obsidian__sketchCrop5.png",
-    "Ideation/concept-art/Obsidian__sketchCrop4.png",
-    "Process/journal.md",
-    "README.md"
+    "Ideation/concept-art/Obsidian__sketchCrop4.png"
   ]
 }
