@@ -20,7 +20,7 @@ Tags: [[blueprints]], [[interact]]
 	![[HighlightActors_Looking_5.png]]
 	## Add yet another function for an 'Is selected?' state check:
 	![[HighlightActors_Looking_6.png]]
-	## Create a new output on the inteface:
+	## Create a new output on for the isSelected variable:
 	![[HighlightActors_Looking_7.png]]
 	## Name it 'Is selected?'
 	![[HighlightActors_Looking_8.png]]
@@ -42,16 +42,17 @@ Tags: [[blueprints]], [[interact]]
 	![[HighlightActors_Looking_16.png]]
 
 ## Create the selction higlight Material asset:
-	![[HighlightActors_Looking_17.png]]
 	
+	![[HighlightActors_Looking_17.png]]
+	### Change the material domain to Deffered Decal: 
 	![[HighlightActors_Looking_18.png]]
 	
 	![[HighlightActors_Looking_19.png]]
-	
+	Change the blend mode to Translucent:
 	![[HighlightActors_Looking_20.png]]
-	
+	Hold '3' and click to add a Constant3Vector value:
 	![[HighlightActors_Looking_21.png]]
-	
+	Hold '1' and left click to add a constant value:
 	![[HighlightActors_Looking_22.png]]
 	
 	![[HighlightActors_Looking_23.png]]
@@ -63,7 +64,7 @@ Tags: [[blueprints]], [[interact]]
 	
 	![[HighlightActors_Looking_26.png]]
 
-## Configure inherited Interface on Parent_Selectable_Actor BP:
+## Configure implemented Interface on Parent_Selectable_Actor BP:
 	![[HighlightActors_Looking_27.png]]
 	
 	![[HighlightActors_Looking_28.png]]
@@ -167,7 +168,7 @@ Tags: [[blueprints]], [[interact]]
 	![[HighlightActors_Looking_75.png]]
 	
 	![[HighlightActors_Looking_76.png]]
-	
+	Change  variable type to 'Actor':
 	![[HighlightActors_Looking_77.png]]
 	
 	![[HighlightActors_Looking_78.png]]
@@ -179,7 +180,7 @@ Tags: [[blueprints]], [[interact]]
 	![[HighlightActors_Looking_81.png]]
 	
 	![[HighlightActors_Looking_82.png]]
-	
+	Get SelectedActor:
 	![[HighlightActors_Looking_83.png]]
 	
 	![[HighlightActors_Looking_84.png]]

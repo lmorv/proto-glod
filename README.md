@@ -29,7 +29,7 @@ Our demi-god anti hero can act in small playful ways at first. But, as their pow
 
 The tone of the game is meant to be comical. Absurd, silly, and whimsical even when dealing with existential themes and potentially disturbing elements of magical violence. It is not meant to be graphic nor explicit, but it does intend to take horror and dread seriously from a storytelling and action-based performance perspective. All the elements of the design, from visual aesthetics, to writing, to interaction mechanics, should be in service of a welcoming and playful atmosphere that invites players to view the conditions of our mortal existence as a source of amusement and dynamic transformation, rather than fear and nihilism.
 
-### Check out the dialogue stream script: [[Proto-glod - script]]
+### Check out the dialogue stream script: [Proto-Glod - Script](https://github.com/lmorv/proto-glod/blob/main/Development/narrative-design/Proto-glod%20-%20script.md)
 
 #### And a speculative 2D spin-off version of the game: [Proto-Glod: Darklit (Lite).](https://lm-vega.itch.io/proto-glod-darklit-lite)
 

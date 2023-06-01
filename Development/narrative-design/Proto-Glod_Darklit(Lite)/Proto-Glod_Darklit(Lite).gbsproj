@@ -2,7 +2,7 @@
     "name": "Proto-Glod_Darklit(Lite)",
     "author": "kisho",
     "_version": "3.1.0",
-    "_release": "0",
+    "_release": "3",
     "scenes": [
         {
             "id": "94c18861-b352-4f49-a64d-52f2e3415077",
@@ -4383,7 +4383,8 @@
                                 "args": {
                                     "variable": "10",
                                     "trueText": "New Game",
-                                    "falseText": "Continue"
+                                    "falseText": "Continue",
+                                    "__collapse": false
                                 }
                             },
                             {
@@ -9405,9 +9406,9 @@
         "startDirection": "right",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 0,
+        "worldScrollX": 326,
         "worldScrollY": 0,
-        "zoom": 100,
+        "zoom": 175,
         "customColorsEnabled": false,
         "sgbEnabled": false,
         "customHead": "",
@@ -9435,9 +9436,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            429,
-            142,
-            142
+            252,
+            79,
+            652
         ],
         "showNavigator": true,
         "defaultFontId": "26fa15df-3318-44ad-8bfd-feff8ba7991d",

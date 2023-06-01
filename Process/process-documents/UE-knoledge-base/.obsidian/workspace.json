@@ -160,11 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c894d51b85f17d5e",
+  "active": "f45951db06814058",
   "lastOpenFiles": [
-    "Cycle between static meshes in a BP.md",
-    "Selecting Actors By Looking At Them.md",
     "Select Actors in-game by clicking on them.md",
+    "Selecting Actors By Looking At Them.md",
+    "ue5-screenshots/HighlightActors_Looking_17.png.~tmp",
+    "Cycle between static meshes in a BP.md",
+    "ue5-screenshots/HighlightActors_Looking_13.png.~tmp",
     "ue5-screenshots/HighlightActors_Looking_12.png.~tmp",
     "Casting - Blueprint Communication.md",
     "ue5-screenshots/HighlightActors_Looking_2.png",
@@ -195,8 +197,6 @@
     "ue5-screenshots/BlueprintComms_123_BPInterfaces.png.~tmp",
     "ue5-screenshots/BlueprintComms_124_BPInterfaces.png.~tmp",
     "ue5-screenshots/BlueprintComms_126_BPInterfaces.png.~tmp",
-    "ue5-screenshots/BlueprintComms_127_BPInterfaces.png.~tmp",
-    "ue5-screenshots/BlueprintComms_128_BPInterfaces.png.~tmp",
     "Templates/Atomic idea - Template.md",
     "Untitled.canvas",
     "2023-05-13.md"

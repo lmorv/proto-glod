@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c5202817a0a0ce1e",
+            "id": "34f74342e83ed79b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Process/why.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Process/why.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Process/why.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Process/why.md"
               }
             }
           }
@@ -171,29 +171,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5202817a0a0ce1e",
+  "active": "34f74342e83ed79b",
   "lastOpenFiles": [
+    "ProtoGlod_Play/Saved/WorldPartition/StreamingGeneration-PIE-2023.06.01-09.54.30.log",
+    "ProtoGlod_Play/Intermediate/CachedAssetRegistry.bin.tmp",
+    "ProtoGlod_Play/Intermediate/TurnkeyReport_0.log",
+    "ProtoGlod_Play/Intermediate/DatasmithContentTemp",
+    "ProtoGlod_Play/Saved/Logs/ProtoGlod_Play-backup-2023.05.31-18.37.30.log",
+    "ProtoGlod_Play/Saved/Config/CrashReportClient/UECC-Windows-A5E6A24B40E4C240984D1E9F19F6D30B/CrashReportClient.ini",
+    "ProtoGlod_Play/Saved/Config/CrashReportClient/UECC-Windows-A5E6A24B40E4C240984D1E9F19F6D30B",
+    "ProtoGlod_Play/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V8/O5ZVGLN6TBWVVO4IVV2BXR.uasset",
+    "ProtoGlod_Play/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V8",
+    "ProtoGlod_Play/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/HE/3P0BGYGBILUGVTXIMPJBJJ.uasset",
+    "ProtoGlod_Play/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/HE",
     "Process/journal.md",
+    "Process/why.md",
     "Development/narrative-design/Proto-glod - script.md",
     "README.md",
-    "Process/process-documents/LeonardoMoralesVega_ProtoGlod_IndependentStudyProposal.pdf",
-    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/InteractMarker_Widget.uasset",
     "Ideation/concept-art/Intrasensora_Layout_Sketch.jpeg",
     "Ideation/concept-art/Obsidian_sketches4.jpeg",
     "Ideation/concept-art/Mask_NoGo_Concept.jpeg",
     "Ideation/concept-art/IMG_0036.jpeg",
     "Ideation/concept-art/IMG_0035.jpeg",
     "Ideation/concept-art/IMG_0034.jpeg",
-    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/AimMarker.uexp",
-    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/InteractMarker_Widget.uexp",
-    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/InnerMarker.uexp",
-    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/UI-hud/AimMarker_Widget.uexp",
-    "ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Meshes/InteractableObject_Test.uexp",
     "Ideation/concept-art/Obsidian__sketchCrop6.png",
     "Process/process-images/Cycle_Mesh_Sphere.png",
-    "ProtoGlod_Play/Saved/StagedBuilds/Windows/Manifest_DebugFiles_Win64.txt",
-    "ProtoGlod_Play/Saved/StagedBuilds/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh",
-    "ProtoGlod_Play/Saved/StagedBuilds/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat",
     "Ideation/concept-art/Obsidian__sketchCrop5.png",
     "Ideation/concept-art/Obsidian__sketchCrop4.png"
   ]
