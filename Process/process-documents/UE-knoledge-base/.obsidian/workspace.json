@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6523cd2b52ce65b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cycle between static meshes in a BP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f45951db06814058",
             "type": "leaf",
             "state": {
@@ -30,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a5870bca09809a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Position - Gradient Material.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,25 +161,28 @@
   },
   "active": "f45951db06814058",
   "lastOpenFiles": [
-    "Select Actors in-game by clicking on them.md",
+    "World Position - Gradient Material.md",
     "Selecting Actors By Looking At Them.md",
-    "ue5-screenshots/HighlightActors_Looking_17.png.~tmp",
+    "ue5-screenshots/WorldPos_Gradient_Implemented_1.png",
+    "ue5-screenshots/WorldPos_Gradient_Implemented_3.png",
+    "ue5-screenshots/WorldPos_Gradient_Implemented_2.png",
+    "ue5-screenshots/GradientMAT_WorldPos (1).png",
+    "ue5-screenshots/GradientMAT_WorldPos (19).png",
+    "ue5-screenshots/GradientMAT_WorldPos (17).png",
+    "ue5-screenshots/GradientMAT_WorldPos (16).png",
+    "ue5-screenshots/GradientMAT_WorldPos (15).png",
+    "ue5-screenshots/GradientMAT_WorldPos (14).png",
+    "ue5-screenshots/GradientMAT_WorldPos (13).png",
+    "Select Actors in-game by clicking on them.md",
+    "interact.md",
+    "Get Actors - Blueprint Communication.md",
     "Cycle between static meshes in a BP.md",
+    "ue5-screenshots/HighlightActors_Looking_17.png.~tmp",
     "ue5-screenshots/HighlightActors_Looking_13.png.~tmp",
     "ue5-screenshots/HighlightActors_Looking_12.png.~tmp",
     "Casting - Blueprint Communication.md",
-    "ue5-screenshots/HighlightActors_Looking_2.png",
     "Click Events On Static Mesh Components.md",
     "Blueprint Interfaces - Blueprint Communication.md",
-    "ue5-screenshots/HighlightActors_Looking_1.png",
-    "ue5-screenshots/HighlightActors_Looking_137.png",
-    "ue5-screenshots/HighlightActors_Looking_136.png",
-    "ue5-screenshots/HighlightActors_Looking_135.png",
-    "ue5-screenshots/HighlightActors_Looking_134.png",
-    "ue5-screenshots/HighlightActors_Looking_133.png",
-    "ue5-screenshots/HighlightActors_Looking_132.png",
-    "ue5-screenshots/HighlightActors_Looking_131.png",
-    "ue5-screenshots/HighlightActors_Looking_130.png",
     "Constructing a Concrete Floor piece & Destroyed variants.md",
     "ue4][[blueprints.md",
     "Click on Actors - Blueprints.md",
@@ -190,7 +192,6 @@
     "Reusable Blueprints - Blueprint Communication.md",
     "Level Blueprint - Blueprint Communication.md",
     "Interact crosshair dot - UE5 Notes.md",
-    "Get Actors - Blueprint Communication.md",
     "Event Dispatchers - Blueprint Communication.md",
     "ue5-screenshots/BlueprintComms_111_BPInterfaces.png.~tmp",
     "ue5-screenshots/BlueprintComms_116_BPInterfaces.png.~tmp",
