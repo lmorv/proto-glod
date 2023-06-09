@@ -6,6 +6,7 @@
       {
         "id": "88f84665b8b7f2d6",
         "type": "tabs",
+        "dimension": 48.62932061978546,
         "children": [
           {
             "id": "7ef0c961858dd1c2",
@@ -30,7 +31,15 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2ab2cec78a5f2922",
+        "type": "tabs",
+        "dimension": 51.37067938021455,
+        "children": [
           {
             "id": "34f74342e83ed79b",
             "type": "leaf",
@@ -43,8 +52,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 217.5,
+    "collapsed": true
   },
   "right": {
     "id": "b613e2ffaa063ae3",
@@ -110,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Process/why.md",
+                "file": "Process/journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Process/why.md",
+                "file": "Process/journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/why.md"
+                "file": "Process/journal.md"
               }
             }
           }
@@ -171,17 +180,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34f74342e83ed79b",
+  "active": "2414ff26cceab1a0",
   "lastOpenFiles": [
+    "Process/why.md",
+    "Development/narrative-design/Proto-glod - script.md",
+    "Process/journal.md",
+    "Process/process-documents/UE-knoledge-base/geometry tools & scripts - Epic live stream.md",
+    "Process/process-documents/UE-knoledge-base/geometry tools, scripts - Epic live stream.md",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_5.png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_4.png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_3.png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_2.png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_1.png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_6.png",
+    "Process/process-documents/UE-knoledge-base/GeometryTools_6.png",
+    "Process/process-documents/UE-knoledge-base/GeometryTools_5.png",
+    "Process/process-documents/UE-knoledge-base/GeometryTools_4.png",
+    "Process/process-documents/UE-knoledge-base/GeometryTools_3.png",
+    "Process/process-documents/UE-knoledge-base/geometry tools -  resources.md",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V8/O5ZVGLN6TBWVVO4IVV2BXR_Auto5.uasset",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/ZJ/Z00XAH0VCT0L88YAURNQ4V_Auto5.uasset",
-    "Process/process-images/LevelLayoutWIP_8.png",
-    "Process/process-images/LevelLayoutWIP_7.png",
-    "Process/process-images/LevelLayoutWIP_5.png",
-    "Process/process-images/LevelLayoutWIP_4.png",
-    "Process/process-images/LevelLayoutWIP_3.png",
-    "Process/process-images/LevelLayoutWIP_2.png",
-    "Process/process-images/LevelLayoutWIP_1.png",
     "ProtoGlod_Play/Saved/EditorPerProjectUserSettings929190A64C391068C62B4B9E0E5421E2.tmp",
     "ProtoGlod_Play/Saved/WorldPartition/StreamingGeneration-PIE-2023.06.02-13.57.24.log",
     "ProtoGlod_Play/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/XP/2LHS87VZ1DWNFDFS97FZU4.uasset",
@@ -190,15 +208,8 @@
     "ProtoGlod_Play/Intermediate/DatasmithContentTemp",
     "ProtoGlod_Play/Saved/Logs/ProtoGlod_Play-backup-2023.06.02-02.16.21.log",
     "ProtoGlod_Play/Saved/Config/CrashReportClient/UECC-Windows-829D0AA9467161ACD3BB23AF8E9ADCA4/CrashReportClient.ini",
-    "ProtoGlod_Play/Saved/Config/CrashReportClient/UECC-Windows-829D0AA9467161ACD3BB23AF8E9ADCA4",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/WorldPos_Gradient_Implemented_2.png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/WorldPos_Gradient_Implemented_1.png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/WorldPos_Gradient_Implemented_3.png",
     "Process/process-documents/UE-knoledge-base/interact.md",
     "Process/process-documents/UE-knoledge-base/World Position - Gradient Material.md",
-    "Process/journal.md",
-    "Process/why.md",
-    "Development/narrative-design/Proto-glod - script.md",
     "README.md"
   ]
 }

@@ -266,3 +266,55 @@ Wrote a dialogue stream for the beginng of the game in a sort-of script format. 
 I am having truble however imagining how to progress the narrative past this into 'sequence', and also picturing how i'll manage more than two characters talking in a conversation. I've been using **bold** text to signify Tezcatlipoca's dialogue, and normal text for obsidian. Maybe I'll use different text styles and sizes for other characters, even different fonts once in game. 
 
 I am gonna try to write some more and get to the event-meat of the story, and then protype in GB Studio for a bit. I want to get into some object swapping intection experimentation as well, in UE5. And I thought of a title for the GB Studio story prototype:  Proto-Glod: Darklit (Lite).
+
+### June 7, 2023 -  Auto writing, complexity of context
+
+The harrowing thruth that all us humans live in fear the plain anthology of season subsumed by fire and a darly lit sky, saucetastic managment guys, my impending pedanticness escapes no reason no forray into the woodsack, the sack of wood, sac o' wooden beams. The antipathic pice of writing before your very eyes (reprise).
+
+I think I'm gonna try out an automatic writig technique on my script, see what comes out. Hopefully it doesnt reveal something too deep about my subconcius; some fatal charcter flaw. I think it's fitting, and I am stuck otherwise, I am really dreading any methodical aproach. I have a sort of outline in my mind but I feel like as soon as I put it down on paper its going to feel done to me. And the work that follows is going to be a drag. I rather try to surprise myself.
+
+I had a talk/ creative aproach/ story review session with Alexi (Alexandre Franchi) last week after the GaR meeting. I had him read my script and the narrative concept overview from my README.md file. We talked a whole buch, he said a lot of things, I'll tanscribe my notes below. What I am mostly taking out of it is that there is so much that I could do to approach the conceptualization of the story from a cinematic and experiential standpoint. I could storyboard, film prototype footage of key monets, make a 'mood-edit' with existig pieces of footage from other games, write out a formulaic 'pixar type' story outline, make an experiance map laying out the moment-to-moment event progression and user interactions of the piece (that was easy to do in Dead Space Remake, I speculate, because there was a built experiance to map in the first place). I could do so many things. 
+
+I am mostly greatfull for the oportunity to talk to another human being about my convoluted process and know their intersts, and methods, and hear oabout their projects, and convoluted processes. The scale of some productions and art forms is hard to imagine sometimes, how many people and disciplines have to be movilized behind a unified idea, and how much work and care needs to go into every minute aspect of the final product. This shit is complex, I am not sure if knowing that helps.
+
+On another complexity-related note; I feel like the complexity of my life is increasing latey. I hope I dont burn out. Switching contexts bwteen classes, and work stuff, and this (which is also work stuff, but I am trying not to care as much despite that) is HARD, hard on my brain. I mignt have reached a dangerous level of existing stuff in my life. I am also moving at the end of the month, and creating a whole separate art project with friends. Yaaay!
+
+These are my notes from the session with Alexi: 
+
+> Expossition > A process of discovery of who is the entity that is talking to Obsidian.
+> 	- Why is the kid in the library?
+> 	- What if we didn't know it was tezcatlipoca?
+> - Tezcatlipoca prompts player to try game mechanics. Tutorializing. (I'm doing this alredy in a subtle way).
+> - Using the gemboid as a coinduit.
+> - Feeling of activating somethig beyond your control.
+> - Starting with the possibility of picking up the book insted of diving straight into dialogue.
+> - Why does the story begin now inetad of last weekend?
+> - Letting go of the world as you knew it (mom, school, sibling). Point of no return.
+> 	- Option to leave the library. At some point that option becomes unavailable.
+> - Is there some sort of cosmic event bringing all these phomena into this library nexus?
+> - Is there an exibition at the lybrary? Artifacts, books.
+> 	- Reserch project? Lunar/solar eclipse?
+> - Variety of cultural artifacts.
+> 	- Only one (tezcatlipoca's mask), sets game event's in motion?
+> - Tezcatlipoca is also the god of memory.
+> - Maybe tezca is not aware he is tezca.
+> - What if the library is a museum? (nope).
+> - Quest system.
+> - What if the kid becomes tezcatlipoca? (He doesn't need to, he is alredy an aspect of them).
+> - Pixar story formula.
+> - Story beats in cue cards.
+> - Fleabag > Clusters of situational events, characters, bits of dialogue.
+> - 3rd person VS first person - is first person more adapted to stream of conciusness type narrative? (not nescesarrily).
+> - Playing around with the format of the game. Playing with conventions - 'Baba is You'.
+> - The game could transition from 3rd to 1st person.
+> - Automatic VS enacted/ intentional change.
+> - Storyboard story beats - experiance mapping.
+> 	- Cinematics: Types of shots, composition, lighting.
+> - Color key progression.
+> - Fake posters, promotional material.
+> - Mood trailer/ edit. - Gameplay footage of other games - in-game footage / cinematics.
+> - Fragmeted story - pieceing it together.
+> - Puzzle experiance in narrative.
+
+
+

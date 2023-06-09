@@ -28,3 +28,18 @@ And It is sooooo fun! Shader work has been kind of a nice respite from character
 
 I feel like I tend to gravitate towards the shiny visual parts of games in general, style and the mood that style creates is a big factor when choosing what to play and what to make. And I am really eager to start work for real on the visual development, art-direction-y part of the project. I want to balance how much time I spend planning and how much time I spend implementing things, and I feel like I tend to view my personal priority to be the aesthetics of a thing rather than the functionality. I'm trying to strike more of a balance without forcing myself to spend an ungodly amount of time in tech-land either.
 
+03 - Why 'Darklit (Lite)'? & why is my brain like this?
+
+I made this page on itch.io while thinking about narrative design on the gameboy: [Protoglod: Darklit (Lite)](https://lm-vega.itch.io/proto-glod-darklit-lite)
+
+My thoughts about ways to of materializing the story of the game in a low-fi format concided and where co-created by the ocurrence of the second instalment of the solar gameboy game jam run by some collegues at TAG.  I wanted to participate and made a tenuous attempt at thinking within their framing of retro gameing and solar game design.  
+
+This is what I wrote there:
+
+"Proto-Glod: Darklit (Lite) is the 2D, top-down, pixel art version of --game in development-- Proto-Glod: Awakening (3D). This variant built for gameboy and web platforms is mainly a way to explore the purely narrative components of exploration and quest-driven gameplay, and as a way to introduce possible solar media features into the Proto-Glod game concept.  Some of those features are more speculative than others, and Proto-Glod: Darklit (Lite) is meant as an extension, and a compact variant, of the 3D game in ongoing materialization using Unreal Engine 5. The story beats may differ in the 2D and 3D games,  as well as the gameplay and delivery of the narrative experience."
+
+Since then I've spoken to Michael about the hardware possibilities of the features I speculate about. It turns out that getting information about battery levels in the gameboy could be tricky, but perhaps doable. There are cartriges that have an integrated timer for example. Perhaps a hardware solution could be built between the solar battery circuit and the game process, that keeps a cycle that 'coincides' with mesured depletion rates pf energy. I also put foth the possibility of building a bootleg 'gemboid' using a raspberry pi and a gameboy emulator.
+
+And anyway I think that brings me to the second question in the title. To which the answer is of course is; 'I do not know'. I'm gonna keep pushing forward (or in some direction) despite the clear drawbacks of its existance, and its cursed state.
+
+
