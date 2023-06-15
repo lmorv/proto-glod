@@ -1,7 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c23cf342-e8ec-4564-9178-d19a6f43953d" name="Changes" comment="" />
+    <list default="true" id="c23cf342-e8ec-4564-9178-d19a6f43953d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ideation/concept-art/Obsidian_CharacterSketches.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Ideation/concept-art/Obsidian_CharacterSketches.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Process/process-documents/UE-knoledge-base/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/Process/process-documents/UE-knoledge-base/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Build/Windows/FileOpenOrder/CookerOpenOrder.log" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Build/Windows/FileOpenOrder/CookerOpenOrder.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Build/Windows/FileOpenOrder/EditorOpenOrder.log" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Build/Windows/FileOpenOrder/EditorOpenOrder.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Content/Bot_3rdPersonTest/Blueprint/GM_StackBot_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Content/Bot_3rdPersonTest/Blueprint/GM_StackBot_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Content/ThirdPerson/Blueprints/BP_VoidBeing_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Content/ThirdPerson/Blueprints/BP_VoidBeing_GameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Content/ThirdPerson/Maps/ThirdPersonMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Content/ThirdPerson/Maps/ThirdPersonMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Intermediate/Build/Win64/UnrealGame/Inc/ProtoGlod_Play/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Intermediate/Build/Win64/UnrealGame/Inc/ProtoGlod_Play/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto2.umap" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto2.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Config/CrashReportClient/UECC-Windows-6415D1A8477505FB5C228195B4B6155B/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Config/CrashReportClient/UECC-Windows-7BE14E2647EF552DE26177A5D4ED0602/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Config/CrashReportClient/UECC-Windows-829D0AA9467161ACD3BB23AF8E9ADCA4/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Config/CrashReportClient/UECC-Windows-A5E6A24B40E4C240984D1E9F19F6D30B/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Config/WindowsEditor/Game.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Config/WindowsEditor/Game.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/Engine/GlobalShaderCache-PCD3D_SM5.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/Engine/GlobalShaderCache-PCD3D_SM5.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/AssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/AssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/Bot_3rdPersonTest/Blueprint/GM_StackBot_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/Bot_3rdPersonTest/Blueprint/GM_StackBot_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/Characters/VoidBeing/Material/VoidSkin.uexp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/Characters/VoidBeing/Material/VoidSkin.uexp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/FresnelRefraction_M.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/FresnelRefraction_M.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/FresnelRefraction_M.uexp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/FresnelRefraction_M.uexp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/Gradient_Mat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/Gradient_Mat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/Gradient_Mat.uexp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/Gradient_Mat.uexp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/MF_StylizedLinearGradient.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/MF_StylizedLinearGradient.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/MF_StylizedLinearGradient.uexp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Materials/MF_StylizedLinearGradient.uexp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Meshes/InteractableObject_Test.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/LevelPrototyping/Meshes/InteractableObject_Test.uexp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ShaderArchive-ProtoGlod_Play-PCD3D_SM5.ushaderbytecode" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ShaderArchive-ProtoGlod_Play-PCD3D_SM5.ushaderbytecode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ShaderAssetInfo-Global-PCD3D_SM5.assetinfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ShaderAssetInfo-Global-PCD3D_SM5.assetinfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ShaderAssetInfo-ProtoGlod_Play-PCD3D_SM5.assetinfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ShaderAssetInfo-ProtoGlod_Play-PCD3D_SM5.assetinfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Maps/Minimal_Default.uexp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Maps/Minimal_Default.uexp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Maps/Minimal_Default.umap" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Maps/Minimal_Default.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Maps/StarterMap.uexp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Maps/StarterMap.uexp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Maps/StarterMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Maps/StarterMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Blueprints/BP_VoidBeing_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Blueprints/BP_VoidBeing_GameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Blueprints/BP_VoidBeing_GameMode.uexp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Blueprints/BP_VoidBeing_GameMode.uexp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Blueprints/BP_VoidBeing_ThirdPerson.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Blueprints/BP_VoidBeing_ThirdPerson.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Blueprints/BP_VoidBeing_ThirdPerson.uexp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Blueprints/BP_VoidBeing_ThirdPerson.uexp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Maps/ThirdPersonMap.uexp" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Maps/ThirdPersonMap.uexp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Maps/ThirdPersonMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Content/ThirdPerson/Maps/ThirdPersonMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/CookedIniVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/CookedIniVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/DevelopmentAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/DevelopmentAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/ShaderLibrarySource/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/ShaderLibrarySource/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/ShaderLibrarySource/ShaderArchive-ProtoGlod_Play-PCD3D_SM5.ushaderbytecode" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/ShaderLibrarySource/ShaderArchive-ProtoGlod_Play-PCD3D_SM5.ushaderbytecode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/ShaderLibrarySource/ShaderAssetInfo-Global-PCD3D_SM5.assetinfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/ShaderLibrarySource/ShaderAssetInfo-Global-PCD3D_SM5.assetinfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/ShaderLibrarySource/ShaderAssetInfo-ProtoGlod_Play-PCD3D_SM5.assetinfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/ShaderLibrarySource/ShaderAssetInfo-ProtoGlod_Play-PCD3D_SM5.assetinfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/packagestore.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Cooked/Windows/ProtoGlod_Play/Metadata/packagestore.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Logs/ProtoGlod_Play-backup-2023.05.29-00.13.13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Logs/ProtoGlod_Play-backup-2023.05.31-18.07.47.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Logs/ProtoGlod_Play-backup-2023.05.31-18.37.30.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Logs/ProtoGlod_Play-backup-2023.06.01-14.02.57.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Logs/ProtoGlod_Play-backup-2023.06.02-02.16.21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Logs/ProtoGlod_Play.log" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Logs/ProtoGlod_Play.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderAssetInfo-Global-PCD3D_SM5.assetinfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderAssetInfo-Global-PCD3D_SM5.assetinfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderAssetInfo-ProtoGlod_Play-PCD3D_SM5.assetinfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderAssetInfo-ProtoGlod_Play-PCD3D_SM5.assetinfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderCode-Global-PCD3D_SM5.ushaderbytecode" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderCode-Global-PCD3D_SM5.ushaderbytecode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderCode-ProtoGlod_Play-PCD3D_SM5.ushaderbytecode" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderCode-ProtoGlod_Play-PCD3D_SM5.ushaderbytecode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderDebug-ProtoGlod_Play-PCD3D_SM5/Dump.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Shaders/PCD3D_SM5/ShaderDebug-ProtoGlod_Play-PCD3D_SM5/Dump.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/StagedBuilds/Windows/Manifest_NonUFSFiles_Win64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/StagedBuilds/Windows/Manifest_NonUFSFiles_Win64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/StagedBuilds/Windows/Manifest_UFSFiles_Win64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/StagedBuilds/Windows/Manifest_UFSFiles_Win64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/StagedBuilds/Windows/ProtoGlod_Play/Content/Paks/ProtoGlod_Play-Windows.pak" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/StagedBuilds/Windows/ProtoGlod_Play/Content/Paks/ProtoGlod_Play-Windows.pak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/StagedBuilds/Windows/ProtoGlod_Play/Content/Paks/ProtoGlod_Play-Windows.ucas" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/StagedBuilds/Windows/ProtoGlod_Play/Content/Paks/ProtoGlod_Play-Windows.ucas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/StagedBuilds/Windows/ProtoGlod_Play/Content/Paks/ProtoGlod_Play-Windows.utoc" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/StagedBuilds/Windows/ProtoGlod_Play/Content/Paks/ProtoGlod_Play-Windows.utoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Temp/Win64/ProtoGlod_Play/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ProtoGlod_Play/Saved/Temp/Win64/ProtoGlod_Play/Config/DefaultEngine.ini" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,21 +93,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\kisho\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\kisho\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\kisho\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\kisho\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\kisho\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\kisho\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,6 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683901983826</updated>
       <workItem from="1683901985469" duration="10381000" />
+      <workItem from="1686857868395" duration="428000" />
     </task>
     <task id="LOCAL-00001" summary="ProtoGlod: Technical investigations, game mechanics and knowledge bases&#10;&#10;- I implemented an aim UI to the HUD of the character that changes states if it is hovering over an interactable object. &#10;- I also documented the process from a technical standpoint by taking screenshots of the tutorial where I learned the technique.&#10;- I've gone on a rabbit hole of tech investigations, and I have now incorporated Obsidian, a text editor, to build a 'knowledge base' of everything (or most things) I learn by watching tutorials and adapting the contents to my needs.&#10;- Some re-shuffling of priorities is occuring as I come into contact with the 'tasks' that I planned for in my schedule. I talk more about this in my process journal, and it's an ongoing conversation with myself.">
       <created>1684331579880</created>
