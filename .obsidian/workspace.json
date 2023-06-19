@@ -6,7 +6,7 @@
       {
         "id": "88f84665b8b7f2d6",
         "type": "tabs",
-        "dimension": 12.620192307692307,
+        "dimension": 49.699519230769226,
         "children": [
           {
             "id": "7ef0c961858dd1c2",
@@ -31,16 +31,7 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1,
-        "stacked": true
-      },
-      {
-        "id": "2ab2cec78a5f2922",
-        "type": "tabs",
-        "dimension": 87.3798076923077,
-        "children": [
+          },
           {
             "id": "34f74342e83ed79b",
             "type": "leaf",
@@ -52,7 +43,16 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2,
+        "stacked": true
+      },
+      {
+        "id": "2ab2cec78a5f2922",
+        "type": "tabs",
+        "dimension": 50.300480769230774,
+        "children": [
           {
             "id": "334fe674cdcb6445",
             "type": "leaf",
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,37 +195,39 @@
   },
   "active": "334fe674cdcb6445",
   "lastOpenFiles": [
-    "Ideation/concept-art/psC702.tmp",
-    "Ideation/concept-art/Obsidian_Turnabout.png",
-    "Ideation/concept-art/ps661E.tmp",
-    "Ideation/concept-art/ps4574.tmp",
-    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings06D80BD44E25EEA29B5430BDB411FEC1.tmp",
-    "Ideation/concept-art/psAFE8.tmp",
-    "Ideation/concept-art/ps447B.tmp",
-    "Ideation/concept-art/psEC86.tmp",
-    "Ideation/concept-art/ps9A18.tmp",
-    "Process/journal.md",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (9).png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (8).png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (7).png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (6).png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (5).png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (4).png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (3).png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (2).png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (1).png",
+    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (10).png",
+    "Process/process-documents/UE-knoledge-base/MeshSwap_Implementation (10).png",
+    "Process/process-documents/UE-knoledge-base/Mesh Swap Implementation - Core Gameplay Mechanic.md",
+    "ProtoGlod_Play/Saved/BP_VoidBeing_ThirdPerson175819434BC393A53C7A3B990E281017.tmp",
+    "ProtoGlod_Play/Saved/BP_VoidBeing_ThirdPerson143ECCBE49313FDED5F791AB6D637826.tmp",
+    "ProtoGlod_Play/Saved/BP_VoidBeing_ThirdPerson1B76389943ECFAACC3971888E5886A35.tmp",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings8E99E9BA4996E4E8FA5391A588667F4A.tmp",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings8BC44A4849934BCB3CB5A8A8C7EABD66.tmp",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings921ECEA74EF63FBBC76969921DCB2DBC.tmp",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettingsDA4E1A9E47BC82B9D5A5C2A4D6EF7623.tmp",
+    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-1E0CDE584736FA7E1F0F0390408E344F_0000/CrashContext.runtime-xml",
+    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-1E0CDE584736FA7E1F0F0390408E344F_0000/UEMinidump.dmp",
+    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-1E0CDE584736FA7E1F0F0390408E344F_0000/CrashReportClient.ini",
+    "Process/why.md",
     "Process/Proto Glod - Production Schedule.md",
     "Development/narrative-design/Proto-glod - script.md",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/FullscreenOnStart_Suggestion.png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/FullscreenOnStart_Implementation.png",
+    "Process/journal.md",
+    "Process/process-documents/UE-knoledge-base/Interface interaction - Secret door trigger.md",
     "Process/process-documents/UE-knoledge-base/Set windowed mode on startup - Dev Build, UGameUserSettings.md",
-    "Process/process-documents/UE-knoledge-base/FullscreenOnStart_Suggestion.png",
-    "Process/process-documents/UE-knoledge-base/FullscreenOnStart_Implementation.png",
     "Process/process-documents/UE-knoledge-base/Set windowed mode on startup - Build settings, UGameUserSettings.md",
     "Process/process-documents/UE-knoledge-base/Set windowed mode on startup - Build settings -.md",
-    "Process/why.md",
     "Process/process-documents/UE-knoledge-base/geometry tools & scripts - Epic live stream.md",
     "Process/process-documents/UE-knoledge-base/geometry tools, scripts - Epic live stream.md",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_5.png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_4.png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_3.png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_2.png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/GeometryTools_1.png",
     "Process/process-documents/UE-knoledge-base/geometry tools -  resources.md",
-    "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V8/O5ZVGLN6TBWVVO4IVV2BXR_Auto5.uasset",
-    "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/ZJ/Z00XAH0VCT0L88YAURNQ4V_Auto5.uasset",
-    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings929190A64C391068C62B4B9E0E5421E2.tmp",
     "Process/process-documents/UE-knoledge-base/interact.md",
     "Process/process-documents/UE-knoledge-base/World Position - Gradient Material.md",
     "README.md"

@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5df84152eb8c009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mesh Swap Implementation - Core Gameplay Mechanic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28f3fedf518a58fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mesh Swap Implementation - Core Gameplay Mechanic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "5eb58fef2cfb188f",
@@ -111,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level Blueprint - Blueprint Communication.md",
+                "file": "Mesh Swap Implementation - Core Gameplay Mechanic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level Blueprint - Blueprint Communication.md",
+                "file": "Mesh Swap Implementation - Core Gameplay Mechanic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level Blueprint - Blueprint Communication.md"
+                "file": "Mesh Swap Implementation - Core Gameplay Mechanic.md"
               }
             }
           }
@@ -172,24 +195,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "081235211e9c5336",
+  "active": "c894d51b85f17d5e",
   "lastOpenFiles": [
+    "ue5-screenshots/MeshSwap_Implementation (10).png",
     "geometry tools & scripts - Epic live stream.md",
+    "Level Blueprint - Blueprint Communication.md",
+    "Mesh Swap Implementation - Core Gameplay Mechanic.md",
+    "ue5-screenshots/MeshSwap_Implementation (9).png",
+    "ue5-screenshots/MeshSwap_Implementation (8).png",
+    "ue5-screenshots/MeshSwap_Implementation (7).png",
+    "ue5-screenshots/MeshSwap_Implementation (6).png",
+    "ue5-screenshots/MeshSwap_Implementation (5).png",
+    "ue5-screenshots/MeshSwap_Implementation (4).png",
+    "ue5-screenshots/MeshSwap_Implementation (3).png",
+    "ue5-screenshots/MeshSwap_Implementation (2).png",
+    "ue5-screenshots/MeshSwap_Implementation (1).png",
+    "ue5-screenshots/SecretDoorTrigger_Interface (1).png",
+    "Interface interaction - Secret door trigger.md",
     "Selecting Actors By Looking At Them.md",
     "Set windowed mode on startup - Dev Build, UGameUserSettings.md",
-    "Level Blueprint - Blueprint Communication.md",
-    "ue5-screenshots/FullscreenOnStart_Suggestion.png",
-    "ue5-screenshots/FullscreenOnStart_Implementation.png",
     "World Position - Gradient Material.md",
     "Blueprint Interfaces - Blueprint Communication.md",
-    "ue5-screenshots/GeometryTools_1.png",
-    "ue5-screenshots/GeometryTools_6.png",
-    "ue5-screenshots/GeometryTools_5.png",
-    "ue5-screenshots/GeometryTools_4.png",
-    "ue5-screenshots/GeometryTools_3.png",
-    "ue5-screenshots/GeometryTools_2.png",
-    "ue5-screenshots/WorldPos_Gradient_Implemented_1.png",
-    "ue5-screenshots/WorldPos_Gradient_Implemented_3.png",
     "Select Actors in-game by clicking on them.md",
     "interact.md",
     "Get Actors - Blueprint Communication.md",
