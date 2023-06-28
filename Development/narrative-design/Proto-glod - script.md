@@ -49,5 +49,25 @@ Looks like I can only turn books into other books, and computers into books and 
 
 Oh no, It's the librarian. **Run. I sense confinement in her intent.**
 
+### Breadcrumbs home are all devoured. A total annihilation of the place-time matrix, in this space something has happened; some juncture some flux. 
+
+### It doesn't happen often, so we must take out time. Our time is now to do it right. Be concise, be collected be prepared. Be the balancing flames kept at a steady temperature; that bring total obliteration.
+
+A peaceful slumber is not smooth colorless void. What are you talking about? That is not the librarian.
+
+### The dark librarian is no more. And your reign of terror ends with me.
+
+Big mistake! She shouldn't have said that in that way. Self-identifycation never goes well with the auditors. The anchored body must be working overtime to maintain their materiality. I want a really big dog so I can ride them into the forest. But at first it would be a puppy and they would be too small to ride, and I could take them to school in my backpack. And then he could take me to school instead of mum. But we wont go to school; we'll go to the forest behind school , past the tall fence that I can climb over but no one knows. We'll collect rocks by the little river and try to catch frogs.
+
+**The cellular network of your hands and feet**. Oh! I don't know anything about that. **The ground that stretches out beneath you**
+
+### A fragile and mortal coherence. We have come to a nexus, I believe.
+
+Quick! Come this way.
+
+It's the real librarian! **Weirdly there's also confinement in HER intent.**
+
+I am so glad you are okay! Hold me tight in warm embrace. Something is going toopsy with this place. I cant find my office where I left my stuff. I'v been trying to find security and you, but let's go to the breakroom for now and we can have a snack.
+
 ---
 To be continued...

@@ -6,7 +6,7 @@
       {
         "id": "88f84665b8b7f2d6",
         "type": "tabs",
-        "dimension": 49.699519230769226,
+        "dimension": 21.52736019242333,
         "children": [
           {
             "id": "7ef0c961858dd1c2",
@@ -45,13 +45,13 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       },
       {
         "id": "2ab2cec78a5f2922",
         "type": "tabs",
-        "dimension": 50.300480769230774,
+        "dimension": 78.47263980757667,
         "children": [
           {
             "id": "334fe674cdcb6445",
@@ -195,6 +195,22 @@
   },
   "active": "334fe674cdcb6445",
   "lastOpenFiles": [
+    "Process/process-documents/LeoMV_Proto Glod-IterativeManifestation&Post-studyReport.pdf",
+    "Process/journal.md",
+    "Process/process-images/DarklitLite_WebShcreenshot.png",
+    "Process/why.md",
+    "Development/narrative-design/Proto-glod - script.md",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettingsBA6FE7894785CF6138A51E9CCA5B0CC8.tmp",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettingsB2A8D2054CF50135EDF3CAA86767EF0F.tmp",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings15BF815F4EE8621B27A940978E3ABE0A.tmp",
+    "ProtoGlod_Play/Saved/FresnelRefraction_MF9106D804E55011505438DBB98833E6B.tmp",
+    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-A43D3BC54F7423F4A3DA3EBF40487C13_0000/CrashContext.runtime-xml",
+    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-A43D3BC54F7423F4A3DA3EBF40487C13_0000/UEMinidump.dmp",
+    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-A43D3BC54F7423F4A3DA3EBF40487C13_0000/CrashReportClient.ini",
+    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-A43D3BC54F7423F4A3DA3EBF40487C13_0000/ProtoGlod_Play.log",
+    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-A43D3BC54F7423F4A3DA3EBF40487C13_0000",
+    "ProtoGlod_Play/Saved/WorldPartition/StreamingGeneration-PIE-2023.06.24-15.28.25.log",
+    "Process/Proto Glod - Production Schedule.md",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (9).png",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (8).png",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (7).png",
@@ -204,23 +220,7 @@
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (3).png",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (2).png",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (1).png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (10).png",
-    "Process/process-documents/UE-knoledge-base/MeshSwap_Implementation (10).png",
     "Process/process-documents/UE-knoledge-base/Mesh Swap Implementation - Core Gameplay Mechanic.md",
-    "ProtoGlod_Play/Saved/BP_VoidBeing_ThirdPerson175819434BC393A53C7A3B990E281017.tmp",
-    "ProtoGlod_Play/Saved/BP_VoidBeing_ThirdPerson143ECCBE49313FDED5F791AB6D637826.tmp",
-    "ProtoGlod_Play/Saved/BP_VoidBeing_ThirdPerson1B76389943ECFAACC3971888E5886A35.tmp",
-    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings8E99E9BA4996E4E8FA5391A588667F4A.tmp",
-    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings8BC44A4849934BCB3CB5A8A8C7EABD66.tmp",
-    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings921ECEA74EF63FBBC76969921DCB2DBC.tmp",
-    "ProtoGlod_Play/Saved/EditorPerProjectUserSettingsDA4E1A9E47BC82B9D5A5C2A4D6EF7623.tmp",
-    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-1E0CDE584736FA7E1F0F0390408E344F_0000/CrashContext.runtime-xml",
-    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-1E0CDE584736FA7E1F0F0390408E344F_0000/UEMinidump.dmp",
-    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-1E0CDE584736FA7E1F0F0390408E344F_0000/CrashReportClient.ini",
-    "Process/why.md",
-    "Process/Proto Glod - Production Schedule.md",
-    "Development/narrative-design/Proto-glod - script.md",
-    "Process/journal.md",
     "Process/process-documents/UE-knoledge-base/Interface interaction - Secret door trigger.md",
     "Process/process-documents/UE-knoledge-base/Set windowed mode on startup - Dev Build, UGameUserSettings.md",
     "Process/process-documents/UE-knoledge-base/Set windowed mode on startup - Build settings, UGameUserSettings.md",
