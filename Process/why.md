@@ -28,18 +28,37 @@ And It is sooooo fun! Shader work has been kind of a nice respite from character
 
 I feel like I tend to gravitate towards the shiny visual parts of games in general, style and the mood that style creates is a big factor when choosing what to play and what to make. And I am really eager to start work for real on the visual development, art-direction-y part of the project. I want to balance how much time I spend planning and how much time I spend implementing things, and I feel like I tend to view my personal priority to be the aesthetics of a thing rather than the functionality. I'm trying to strike more of a balance without forcing myself to spend an ungodly amount of time in tech-land either.
 
-03 - Why 'Darklit (Lite)'? & why is my brain like this?
+## 03 - Why 'Darklit (Lite)'? & why is my brain like this?
 
 I made this page on itch.io while thinking about narrative design on the gameboy: [Protoglod: Darklit (Lite)](https://lm-vega.itch.io/proto-glod-darklit-lite)
 
-My thoughts about ways to of materializing the story of the game in a low-fi format concided and where co-created by the ocurrence of the second instalment of the solar gameboy game jam run by some collegues at TAG.  I wanted to participate and made a tenuous attempt at thinking within their framing of retro gameing and solar game design.  
+My thoughts about ways to of materializing the story of the game in a low-fi format coincided and where co-created by the occurrence of the second instalment of the solar gameboy game jam run by some colleagues at TAG.  I wanted to participate and made a tenuous attempt at thinking within their framing of retro gaming and solar game design.  
 
 This is what I wrote there:
 
 "Proto-Glod: Darklit (Lite) is the 2D, top-down, pixel art version of --game in development-- Proto-Glod: Awakening (3D). This variant built for gameboy and web platforms is mainly a way to explore the purely narrative components of exploration and quest-driven gameplay, and as a way to introduce possible solar media features into the Proto-Glod game concept.  Some of those features are more speculative than others, and Proto-Glod: Darklit (Lite) is meant as an extension, and a compact variant, of the 3D game in ongoing materialization using Unreal Engine 5. The story beats may differ in the 2D and 3D games,  as well as the gameplay and delivery of the narrative experience."
 
-Since then I've spoken to Michael about the hardware possibilities of the features I speculate about. It turns out that getting information about battery levels in the gameboy could be tricky, but perhaps doable. There are cartriges that have an integrated timer for example. Perhaps a hardware solution could be built between the solar battery circuit and the game process, that keeps a cycle that 'coincides' with mesured depletion rates pf energy. I also put foth the possibility of building a bootleg 'gemboid' using a raspberry pi and a gameboy emulator.
+Since then I've spoken to Michael about the hardware possibilities of the features I speculate about. It turns out that getting information about battery levels in the game-boy could be tricky, but perhaps doable. There are cartridges that have an integrated timer for example. Perhaps a hardware solution could be built between the solar battery circuit and the game process, that keeps a cycle that 'coincides' with measured depletion rates pf energy. I also put forth the possibility of building a bootleg 'gemboid' using a raspberry pi and a game-boy emulator.
 
-And anyway I think that brings me to the second question in the title. To which the answer is of course is; 'I do not know'. I'm gonna keep pushing forward (or in some direction) despite the clear drawbacks of its existance, and its cursed state.
+And anyway I think that brings me to the second question in the title. To which the answer is of course is; 'I do not know'. I'm gonna keep pushing forward (or in some direction) despite the clear drawbacks of its existence, and its cursed state.
+
+## 04 - 08/02/ 2023 - On the priority of paradigms (not really)
 
 
+In the process of normal comercial production a lot of time is spent "finalizing" the expected outcomes of artistic engagement. I have done a lot of that myself. And there's a strong argument for moving into a sort-of execution phase. However; a lot of the 'assets' or art components that reflect my pre-defined vision have to be built and assembled into the engine. In the process of that occurring I am taking the time to investigate techniques that may help me realize those components in a variety of visual styles and embedded with all sorts of features. And I have found huge amounts of motivation to follow through on a variety of concurrent lines of inquiry. This motivation has been itself fueled by a number of creative goals and external factors.
+
+I want to begin texturing the environment and see how textured assets influence my approach to level design. I'm leaning towards a brutalist design language for the architecture (like Control) and a cement material finish would be very informative to the sense of place in that context.
+
+Related to that, I have discussed with friends (mainly David) that perhaps adopting a patchwork visual style made up of a bunch of different look choices would be thematically sound for the game's premise (chaos-demigod game) and work to my advantage creatively. It should be, to some degree, intentional, and worked into the make-up of the vibes cohesively. While also allowing me to not fix errors that look cool or provide some odd affordance to the play experience.
+
+Which brings me to the last (for now) of the creative opportunities I want to give myself for future iteration: Metahumans. It has been on my production schedule for a while for no apparent reason. I do have a reason though. Investigating and attempting to master Metahuman workflows would allow me to switch to a hyper-relistic version of the player character (slightly older by my current technical limitations) on different game levels and under certain gameplay/narrative conditions (somewhat uncertain what these are), and that would be awesome. Even the fact that the character is slightly older fits my narrative design goals. 
+
+-cacahuate selecto-
+
+Now for external motivations, that co-exist with my personal creative goals in co-generative ways.
+
+I am going trough an interview process for a Rendering Technical Artist job with a videogame company, and that has had a big influence in the activity of these past few weeks. It has motivated me to dive deeper into my investigation, of both shader and character workflows, that I would have for purely functional purposes.
+
+I like learning how things work, and I always lament not having enough time to do it, but now this is my opportunity to make it my priority. To really test and read and speculate in practice and theory on a range of related techniques with a focus on being able to communicate that I know about pointed aspects of discipline components with enough detail to talk about it, and work in a group, and contribute to a 'serious' production. 
+
+Notably; I don't think I would have dove as deeply and fearlessly into introductory HLSL exercises for shading. Nor would I have made a workflow chart for metahuman iteration (housed in ideation/moodboards/reference/Obsidian - metahuman characer moodboard) surfacing as many hard and worthwhile questions about the intersection of materials, textures, rendering, 3D modeling/sculpting and technical animation.

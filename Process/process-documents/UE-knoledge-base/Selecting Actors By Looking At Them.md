@@ -7,7 +7,7 @@ Tags: [[blueprints]], [[interact]]
 **References  / Sources:
 - https://youtu.be/R7oLZL97XYo | How To Select (Highlight) Other Actors/Objects By Looking At Them In Unreal Engine 5
 ---
-## Create and configure the Blueprint inteface:
+## Create and configure the Blueprint interface:
 	
 	![[HighlightActors_Looking_1.png]]
 	### Rename the inteface to something usefull:
@@ -26,7 +26,7 @@ Tags: [[blueprints]], [[interact]]
 	![[HighlightActors_Looking_8.png]]
 	![[HighlightActors_Looking_9.png]]
 
-## Create and confirure the parent intecactable Blueprint Actor:
+## Create and configure the parent interactable Blueprint Actor:
 	![[HighlightActors_Looking_10.png]]
 	
 	![[HighlightActors_Looking_11.png]]
@@ -41,7 +41,7 @@ Tags: [[blueprints]], [[interact]]
 	
 	![[HighlightActors_Looking_16.png]]
 
-## Create the selction higlight Material asset:
+## Create the selection highlight Material asset:
 	
 	![[HighlightActors_Looking_17.png]]
 	### Change the material domain to Deffered Decal: 
@@ -59,7 +59,7 @@ Tags: [[blueprints]], [[interact]]
 	
 	![[HighlightActors_Looking_24.png]]
 
-## Configure visibility of higlight Decal component on Parent_Selectable_Actor: 
+## Configure visibility of highlight Decal component on Parent_Selectable_Actor: 
 	![[HighlightActors_Looking_25.png]]
 	
 	![[HighlightActors_Looking_26.png]]
@@ -105,7 +105,7 @@ Tags: [[blueprints]], [[interact]]
 	
 	![[HighlightActors_Looking_45.png]]
 
-## Line trace Select/ Deselect (Interface events) behaviour on Click event in Player Character BP:
+## Line trace Select/ Deselect (Interface events) behavior on Click event in Player Character BP:
 	![[HighlightActors_Looking_46.png]]
 	
 	![[HighlightActors_Looking_47.png]]

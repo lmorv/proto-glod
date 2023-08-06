@@ -67,7 +67,19 @@ Quick! Come this way.
 
 It's the real librarian! **Weirdly there's also confinement in HER intent.**
 
-I am so glad you are okay! Hold me tight in warm embrace. Something is going toopsy with this place. I cant find my office where I left my stuff. I'v been trying to find security and you, but let's go to the breakroom for now and we can have a snack.
+I am so glad you are okay! Hold me tight in warm embrace. Something is going toopsy with this place. I cant find my office where I left my stuff. I've been trying to find security and you, but let's go to the breakroom for now and we can have a snack.
+
+### Poised for action; perfect plural perception. Metope parallel to extrusion. Indent among triglyphs. A load bearing colonnade particularly sound, sounds like an excuse. 
+
+Spatial knowledge abounds, use it wisely. Normally I would advice otherwise. Normally I would not advice, if anything I would un-advice. I guess there is a first time for everything. You are an anomaly after all.
+
+somewhere the network links break decisively under the scrutiny of watchful towers. This sprawl you see beneath resembles no mind, no prior knowledge hereby given in thine short life.
+
+What if the opposite is true? if quads and tri-polys notice your existence. Them the observer instead of you. Another frame of reference in motion. Which explosion happens first? What nonsense simultaneity. And everyone is correct. In thinking, in acting. In the transparent nature of bread. What serious pineapple, pinnapple, pinacle, signals its end. Salutations from the mortal realm. I wonder when is lunchtime. And when, if ever, lunchtime ends. It is sad to think that, in reality, most of time is non-lunch time.
+
+One can imagine an alternate universe where all of time is lunch-time. What a universe that would be!
+
+Okay now something that moves the plot along. If I remember correctly there was about to appear a cylinder. A HUGE chrome cylinder. And we... And. What happened with my... And we were searching for the breakroom. Pen just now? Do I just have to give up on writing comprehensively?
 
 ---
 To be continued...

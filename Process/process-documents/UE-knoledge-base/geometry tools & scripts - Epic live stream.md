@@ -17,9 +17,9 @@ Content overview:
 - Geometry scripting with blueprint nodes.
 - Bevel, displacement from texture, baking to static mesh.
 - Utility tools made with blueprints to perform custom operations - Flip normals.
-- comunity examples (inclucing: https://twitter.com/TheKristofLovas/status/1500684659876847616 | Kristof Lovas).
+- community examples (including: https://twitter.com/TheKristofLovas/status/1500684659876847616 | Kristof Lovas).
 - Lyra procedural level design meshes.
-- dynamic vs static meshes, enableling dynamic meshes in editor settings.
+- dynamic vs static meshes, enabling dynamic meshes in editor settings.
 ## Activate plugins:
 	![[GeometryTools_1.png]]
 	

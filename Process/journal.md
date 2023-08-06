@@ -255,15 +255,15 @@ One cool thing about Obsidian is that it uses MarkDown to format the text docume
 
 I am building a knowledge base as a means to materialize my technical investigations, using Obsidian (the note taking software, not my character). I feel like I am diving into a whole other worm hole, like in all things. I am finding so many interesting materials online, not always connected to my goals directly, and I could go on studying in this way for ever. I figure I'm gonna keep going until something happens in my mind; I get distracted or fed up. I will keep in mind that I still want to get to executing some design goals within a reasonable time frame, and that there are specific threads of inquiry that I want to follow up on (NPCs, and dialogue systems). 
 
-I have also been having a lot of fun narrowing down the design of my main character; obsidian --sketching them over and over on the Ipad-- and I am really exited to started in the 3d model in the near future. That and the narrative design are becoming my priorities in my mind just because they seem the most fun to me. Level design is a close second, specially since I've been finding a ton of cool modeling and texturing techniques during my tech investigations. So might use that to distract myself from time to time.
+I have also been having a lot of fun narrowing down the design of my main character; obsidian --sketching them over and over on the iPad-- and I am really exited to started in the 3d model in the near future. That and the narrative design are becoming my priorities in my mind just because they seem the most fun to me. Level design is a close second, specially since I've been finding a ton of cool modeling and texturing techniques during my tech investigations. So might use that to distract myself from time to time.
 
 I've been thinking that maybe a good approach to fleshing out my story, and to get around the the technical dependencies of development in UE, might be to try to tell the story in a GB Studio game for the Game Boy. It would be a purely narrative, linear game; limited to the platform's mechanics. And that might give me a chance to see how the story plays out in that format.
 
 ### May 22, 2023 -  Wrirting writing writing
 
-Wrote a dialogue stream for the beginng of the game in a sort-of script format. I am really liking this idea of jamming every character's dialogue into one stream-of-thought-type text and displaying it all in the same text box. I see it as a way of getting at the theme of polymorphism between things that I am playing around in the mechanics --As in the diferentiation between all the charaters is blured, and there is a chance that everything is happening inside obsidian's imagination. I thing the tone is fitting for a chaos-magic game.
+Wrote a dialogue stream for the begining of the game in a sort-of script format. I am really liking this idea of jamming every character's dialogue into one stream-of-thought-type text and displaying it all in the same text box. I see it as a way of getting at the theme of polymorphism between things that I am playing around in the mechanics --As in the diferentiation between all the charaters is blured, and there is a chance that everything is happening inside obsidian's imagination. I thing the tone is fitting for a chaos-magic game.
 
-I am having trouble however imagining how to progress the narrative past this into 'sequence', and also picturing how i'll manage more than two characters talking in a conversation. I've been using **bold** text to signify Tezcatlipoca's dialogue, and normal text for obsidian. Maybe I'll use different text styles and sizes for other characters, even different fonts once in game. 
+I am having trouble however imagining how to progress the narrative past this into 'sequence', and also picturing how I'll manage more than two characters talking in a conversation. I've been using **bold** text to signify Tezcatlipoca's dialogue, and normal text for obsidian. Maybe I'll use different text styles and sizes for other characters, even different fonts once in game. 
 
 I am gonna try to write some more and get to the event-meat of the story, and then protype in GB Studio for a bit. I want to get into some object swapping interaction experimentation as well, in UE5. And I thought of a title for the GB Studio story prototype:  Proto-Glod: Darklit (Lite).
 
@@ -271,13 +271,13 @@ I am gonna try to write some more and get to the event-meat of the story, and th
 
 The harrowing truth that all us humans live in fear the plain anthology of season subsumed by fire and a darkly lit sky, saucetastic management guys, my impending pedanticness escapes no reason no foray into the woodsack, the sack of wood, sac o' wooden beams. The antipathic piece of writing before your very eyes (reprise).
 
-I think I'm gonna try out an automatic writing technique on my script, see what comes out. Hopefully it doesn't reveal something too deep about my subconscious; some fatal charcter flaw. I think it's fitting, and I am stuck otherwise, I am really dreading any methodical aproach. I have a sort of outline in my mind but I feel like as soon as I put it down on paper its going to feel done to me. And the work that follows is going to be a drag. I rather try to surprise myself.
+I think I'm gonna try out an automatic writing technique on my script, see what comes out. Hopefully it doesn't reveal something too deep about my subconscious; some fatal charcter flaw. I think it's fitting, and I am stuck otherwise, I am really dreading any methodical approach. I have a sort of outline in my mind but I feel like as soon as I put it down on paper its going to feel done to me. And the work that follows is going to be a drag. I rather try to surprise myself.
 
 I had a talk/ creative approach/ story review session with Alexi (Alexandre Franchi) last week after the GaR meeting. I had him read my script and the narrative concept overview from my README.md file. We talked a whole bunch, he said a lot of things; I'll transcribe my notes below. What I am mostly taking out of it is that there is so much that I could do to approach the conceptualization of the story from a cinematic and experiential standpoint. I could storyboard, film prototype footage of key moments, make a 'mood-edit' with existing pieces of footage from other games, write out a formulaic 'Pixar type' story outline, make an experience map laying out the moment-to-moment event progression and user interactions of the piece (that was easy to do in Dead Space Remake, I speculate, because there was a built experience to map in the first place). I could do so many things. 
 
 I am mostly grateful for the opportunity to talk to another human being about my convoluted process and know their interests, and methods, and hear about their projects, and convoluted processes. The scale of some productions and art forms is hard to imagine sometimes, how many people and disciplines have to be mobilized behind a unified idea, and how much work and care needs to go into every minute aspect of the final product. This shit is complex, I am not sure if knowing that helps.
 
-On another complexity-related note; I feel like the complexity of my life is increasing lately. I hope I don't burn out. Switching contexts bewteen classes, and work stuff, and this (which is also work stuff, but I am trying not to care as much despite that) is HARD, hard on my brain. I might have reached a dangerous level of existing stuff in my life. I am also moving at the end of the month, and creating a whole separate art project with friends. Yaaay!
+On another complexity-related note; I feel like the complexity of my life is increasing lately. I hope I don't burn out. Switching contexts between classes, and work stuff, and this (which is also work stuff, but I am trying not to care as much despite that) is HARD, hard on my brain. I might have reached a dangerous level of existing stuff in my life. I am also moving at the end of the month, and creating a whole separate art project with friends. Yaaay!
 
 These are my notes from the session with Alexi: 
 
@@ -315,6 +315,12 @@ These are my notes from the session with Alexi:
 > - Mood trailer/ edit. - Gameplay footage of other games - in-game footage / cinematics.
 > - Fragmeted story - pieceing it together.
 > - Puzzle experiance in narrative.
+
+## July 27, 2023 - Documenting inactivity
+
+I took a step back from this project the last 3 weeks. I've been thinking on a wider perspective about the creative process, my creative process specifically, collecting my thoughts on things I've read (mainly Dona Haraway) and reading other things on adjacent topics of how creative/ scientific work is done (Structure of Scientific Revolutions book). I made an ideas-and-materials dump of my sources and notes to keep up with the conversation and collaborate on publications with the rest of the GAR team.
+And I've also had some really good opportunities to talk about those ideas and try to communicate in conversation with friends. I think that there are ways to structure creative work that are closer to the natural rhythms of people/designers/agents/stakeholders/coordinators/evaluators doing creative work than others. I think that surfacing data about how design 'happens' in the wild should have the purpose of generating more humane paradigms of creative production. And that such a paradigm in flux would likely be more representative, in a scientific-explanatory way, of the set of phenomena that comprise 'design'.
+
 
 
 

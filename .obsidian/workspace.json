@@ -6,7 +6,6 @@
       {
         "id": "88f84665b8b7f2d6",
         "type": "tabs",
-        "dimension": 21.52736019242333,
         "children": [
           {
             "id": "7ef0c961858dd1c2",
@@ -15,18 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "Development/narrative-design/Proto-glod - script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2414ff26cceab1a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Process/journal.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,29 +30,36 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1,
-        "stacked": true
-      },
-      {
-        "id": "2ab2cec78a5f2922",
-        "type": "tabs",
-        "dimension": 78.47263980757667,
-        "children": [
+          },
           {
-            "id": "334fe674cdcb6445",
+            "id": "9add6b07467c4897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process/Proto Glod - Production Schedule.md",
-                "mode": "preview",
+                "file": "Process/process-documents/UE-knoledge-base/Mesh Swap Implementation - Core Gameplay Mechanic.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "71d2e40fbce232a1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ideation/moodboards/reference/Obsidian - metahuman character moodboard.canvas",
+                "viewState": {
+                  "x": 2332.0578880068474,
+                  "y": -633.7963473285952,
+                  "zoom": -0.3112783660180992
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "b613e2ffaa063ae3",
@@ -132,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Process/Proto Glod - Production Schedule.md",
+                "file": "Ideation/moodboards/reference/Obsidian - metahuman character moodboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Process/Proto Glod - Production Schedule.md",
+                "file": "Ideation/moodboards/reference/Obsidian - metahuman character moodboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/Proto Glod - Production Schedule.md"
+                "file": "Ideation/moodboards/reference/Obsidian - metahuman character moodboard.canvas"
               }
             }
           }
@@ -193,43 +186,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "334fe674cdcb6445",
+  "active": "a5df250930f900e4",
   "lastOpenFiles": [
-    "Process/process-documents/LeoMV_Proto Glod-IterativeManifestation&Post-studyReport.pdf",
     "Process/journal.md",
-    "Process/process-images/DarklitLite_WebShcreenshot.png",
-    "Process/why.md",
+    "Ideation/moodboards/reference/Obsidian - metahuman character moodboard.canvas",
     "Development/narrative-design/Proto-glod - script.md",
-    "ProtoGlod_Play/Saved/EditorPerProjectUserSettingsBA6FE7894785CF6138A51E9CCA5B0CC8.tmp",
-    "ProtoGlod_Play/Saved/EditorPerProjectUserSettingsB2A8D2054CF50135EDF3CAA86767EF0F.tmp",
-    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings15BF815F4EE8621B27A940978E3ABE0A.tmp",
-    "ProtoGlod_Play/Saved/FresnelRefraction_MF9106D804E55011505438DBB98833E6B.tmp",
-    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-A43D3BC54F7423F4A3DA3EBF40487C13_0000/CrashContext.runtime-xml",
-    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-A43D3BC54F7423F4A3DA3EBF40487C13_0000/UEMinidump.dmp",
-    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-A43D3BC54F7423F4A3DA3EBF40487C13_0000/CrashReportClient.ini",
-    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-A43D3BC54F7423F4A3DA3EBF40487C13_0000/ProtoGlod_Play.log",
-    "ProtoGlod_Play/Saved/Crashes/UECC-Windows-A43D3BC54F7423F4A3DA3EBF40487C13_0000",
-    "ProtoGlod_Play/Saved/WorldPartition/StreamingGeneration-PIE-2023.06.24-15.28.25.log",
+    "Process/why.md",
+    "Process/process-documents/UE-knoledge-base/Mesh Swap Implementation - Core Gameplay Mechanic.md",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings181698334E244DD676A783B005D43BA5.tmp",
+    "ProtoGlod_Play/Saved/webcache_4147/2ac9ab75-0b07-4c51-9a6f-3462959c8626.tmp",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings0EB730C9402DCCD28CE232BDCD2D5D26.tmp",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettingsFF1A0B7943D95F098AAFF0A23C1A2919.tmp",
+    "ProtoGlod_Play/Saved/M_shs_casualsneakers40ADF4754F7EFFE8492445A1C5C568D8.tmp",
+    "ProtoGlod_Play/Saved/M_btm_cargopantsCAE2DCAD43ED9E1B308820A86A207ED2.tmp",
+    "ProtoGlod_Play/Saved/BP_Obs317368AF43D2EDD47758998788FD01BA.tmp",
+    "ProtoGlod_Play/Saved/BP_Obs2049B6674DD662D6F89FF49EA358EC58.tmp",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettingsEF21F82C4130EEDDEE869D8FA1A02503.tmp",
+    "ProtoGlod_Play/Saved/EditorPerProjectUserSettings8D5C5BF64E6152A1C18B2E81154AB62C.tmp",
+    "Ideation/moodboards/reference/leoFace_ref3.jpg",
+    "Ideation/moodboards/reference/leoFace_ref2.jpg",
+    "Process/process-documents/UE-knoledge-base/World Position - Gradient Material.md",
     "Process/Proto Glod - Production Schedule.md",
+    "Ideation/moodboards/reference/leoFace_ref1.jpg",
+    "Ideation/moodboards/reference/SOT78.jpg",
+    "Ideation/moodboards/Control_Moodboard.png",
+    "Ideation/moodboards/Library_Moodboard-S.png",
+    "Ideation/moodboards/narrative_concept_AI_moodboard.png",
+    "Process/process-documents/UE-knoledge-base/Set windowed mode on startup - Dev Build, UGameUserSettings.md",
+    "Process/process-documents/UE-knoledge-base/Selecting Actors By Looking At Them.md",
+    "Process/process-documents/UE-knoledge-base/Select Actors in-game by clicking on them.md",
+    "Process/process-documents/UE-knoledge-base/Reusable Blueprints - Blueprint Communication.md",
+    "Process/process-documents/UE-knoledge-base/Public Variables - Blueprint Communication.md",
+    "Process/process-documents/UE-knoledge-base/Level Blueprint - Blueprint Communication.md",
+    "Process/process-documents/UE-knoledge-base/Interface interaction - Secret door trigger.md",
+    "Process/process-documents/UE-knoledge-base/Interact crosshair dot - UE5 Notes.md",
+    "Process/process-documents/UE-knoledge-base/Get Actors - Blueprint Communication.md",
+    "Process/process-documents/UE-knoledge-base/geometry tools & scripts - Epic live stream.md",
+    "Process/process-documents/UE-knoledge-base/Event Dispatchers - Blueprint Communication.md",
+    "Process/process-documents/UE-knoledge-base/Cycle between static meshes in a BP.md",
+    "Process/process-documents/UE-knoledge-base/Constructing a Concrete Floor piece & Destroyed variants.md",
+    "Process/process-documents/UE-knoledge-base/Click on Actors - Blueprints.md",
+    "Process/process-documents/UE-knoledge-base/Click Events On Static Mesh Components.md",
+    "Process/process-documents/UE-knoledge-base/Casting - Blueprint Communication.md",
+    "Process/process-documents/UE-knoledge-base/Blueprint Interfaces - Blueprint Communication.md",
+    "Process/process-images/DarklitLite_WebShcreenshot.png",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (9).png",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (8).png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (7).png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (6).png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (5).png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (4).png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (3).png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (2).png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/MeshSwap_Implementation (1).png",
-    "Process/process-documents/UE-knoledge-base/Mesh Swap Implementation - Core Gameplay Mechanic.md",
-    "Process/process-documents/UE-knoledge-base/Interface interaction - Secret door trigger.md",
-    "Process/process-documents/UE-knoledge-base/Set windowed mode on startup - Dev Build, UGameUserSettings.md",
     "Process/process-documents/UE-knoledge-base/Set windowed mode on startup - Build settings, UGameUserSettings.md",
-    "Process/process-documents/UE-knoledge-base/Set windowed mode on startup - Build settings -.md",
-    "Process/process-documents/UE-knoledge-base/geometry tools & scripts - Epic live stream.md",
-    "Process/process-documents/UE-knoledge-base/geometry tools, scripts - Epic live stream.md",
-    "Process/process-documents/UE-knoledge-base/geometry tools -  resources.md",
-    "Process/process-documents/UE-knoledge-base/interact.md",
-    "Process/process-documents/UE-knoledge-base/World Position - Gradient Material.md",
-    "README.md"
+    "Process/process-documents/UE-knoledge-base/Set windowed mode on startup - Build settings -.md"
   ]
 }
