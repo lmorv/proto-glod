@@ -5,7 +5,7 @@ float3 rayStep = viewDir * -1; // '-1' for correct orientation
 
 float3 lightDirection = normalize(lightPos); // for shading
 
-struct sdfShapes // structure to store functions 'sdf' = sine distance field
+struct sdfShapes // structure to store shape functions. 'sdf' = sine distance field
 {
     float donut (float3 p, float size, float cutout) {
         float2 q = float2(length(p.xz) - size, p.y);

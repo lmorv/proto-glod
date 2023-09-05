@@ -57,7 +57,7 @@ return(result);
 2DCircle = length(pos - uv) < size;
 3DSphere = length(rayOrigin - sphereCenter) - sphereRadius;
 
-// raymarching code:
+// raymarching code (shaded sphere):
 
 float3 rayOrigin = 1-(viewDir - worldPos); //1-() inverts reversed world orientation.
 float3 rayStep = viewDir * -1; // '-1' for correct orientation
@@ -87,3 +87,58 @@ for(int i = 0; i < 256; i++)
 
 opacityMask = 0; // used to hide pixels not within the drawn shape
 return float3(0,0,0);
+
+
+
+
+// FROM CHAT GPT: To add ambient lighting to your raymarching HLSL code, you can modify the color calculation within your raymarching loop to include an ambient term. The ambient term represents the overall lighting that comes from all directions and affects all surfaces equally. Here's how you can implement ambient lighting:
+
+float3 rayOrigin = 1 - (viewDir - worldPos);
+float3 rayStep = viewDir * -1;
+
+float3 lightDirection = normalize(lightPos);
+float3 ambientColor = float3(0.1, 0.1, 0.1); // Ambient light color (adjust as needed)
+
+float3 finalColor = float3(0, 0, 0);
+
+for (int i = 0; i < 256; i++)
+{
+    float dist = length(rayOrigin - sphereCenter) - sphereRadius;
+
+    if (dist < 0.01) 
+    {
+        float3 normal = normalize(rayOrigin - sphereCenter);
+        float diffuse = max(dot(normal, lightDirection), 0);
+        float3 reflection = reflect(lightDirection, normal);
+        float3 viewDirection = normalize(-worldPos - rayOrigin);
+        float specular = pow(max(dot(reflection, viewDirection), 0), 16);
+
+        float3 lighting = (diffuse * float3(1, 0, 0)) + (specular * float3(1, 1, 1));
+        
+        // Add ambient lighting to the color calculation
+        float3 ambientContribution = ambientColor * lighting;
+
+        finalColor += ambientContribution;
+    }
+
+    opacityMask = 1;
+    rayOrigin += rayStep;
+}
+
+opacityMask = 0;
+return finalColor;
+
+
+
+// Edge detection (not quite my tempo):
+
+float edgeFactor = dot(vertexNormalWS, normalize(NormalWS));
+
+float edgeWearMask = smoothstep(0.0, 0.1, edgeFactor);
+
+float3 color = lerp(baseColor, edgeColor, edgeWearMask);
+
+return color;
+
+// float newRoughness = lerp(roughness, 1.0, edgeWearMask);
+// float newMetallic = lerp(metallic, 0.0, edgeWearMask);

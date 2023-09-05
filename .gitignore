@@ -1,3 +1,7 @@
+# Specific Metahuman files:
+ProtoGlod_Play/Content/MetaHumans/Common/Face/Face_Archetype.uasset
+ProtoGlod_Play/Content/MetaHumans/Obs/Face/Obs_FaceMesh.uasset
+
 # Visual Studio 2015 user specific files
 .vs/
 

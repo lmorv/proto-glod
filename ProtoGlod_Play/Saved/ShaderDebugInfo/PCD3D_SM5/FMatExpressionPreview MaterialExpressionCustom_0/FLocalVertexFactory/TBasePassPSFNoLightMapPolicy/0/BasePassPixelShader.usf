@@ -14482,70 +14482,17 @@ struct FLWCVector4Deriv
 	float4 Ddy;
 };
 
-FLWCVector3Deriv ConstructFLWCVector3Deriv(FLWCVector3 InValue,float3 InDdx,float3 InDdy)
+float3  CustomExpression0(FMaterialPixelParameters Parameters, float3  vertexNormalWS)
 {
-	FLWCVector3Deriv Ret;
-	Ret.Value = InValue;
-	Ret.Ddx = InDdx;
-	Ret.Ddy = InDdy;
-	return Ret;
+float edgeFactor = dot(vertexNormalWS, normalize(NormalWS));
+
+float edgeWearMask = smoothstep(0.0, 0.1, edgeFactor);
+
+float3 color = lerp(baseColor, edgeColor, edgeWearMask);
+
+return color;
 }
-
-FLWCVector3Deriv ConstructConstantFLWCVector3Deriv(FLWCVector3 Value)
-{
-	FLWCVector3Deriv Ret;
-	Ret.Value = Value;
-	Ret.Ddx = 0;
-	Ret.Ddy = 0;
-	return Ret;
-}
-
-FLWCVector3Deriv SubDerivLWC(FLWCVector3Deriv A, FLWCVector3Deriv B)
-{
-	FLWCVector3Deriv Ret;
-	Ret.Value = LWCSubtract(A.Value, B.Value);
-	Ret.Ddx = A.Ddx - B.Ddx;
-	Ret.Ddy = A.Ddy - B.Ddy;
-	return Ret;
-}
-
-float3  CustomExpression0(FMaterialPixelParameters Parameters,float3 worldPos, FLWCVector3 LWCworldPos, float3  viewDir, float3  sphereCenter, float  sphereRadius, float3  lightPos, inout  float  opacityMask)
-{
-struct sdfShapes
-{
-    float donut (float3 p, float size, float cutout) {
-        float2 q = float2(length(p.xz) - size, p.y);
-        return(length(q) - cutout);
-
-    }
-};
-sdfShapes sdf;
-
-for(int i = 0; i < 256; i++)
-{
-
-    float dist = sdf.donut(rayOrigin, 50, 25);
-
-    if(dist < 0.01)
-    {
-
-        float3 normal = 0;
-        float diffuse = max(dot(normal, lightDirection),0);
-        float3 reflection = reflect(lightDirection, normal);
-        float3 viewDirection = normalize(-worldPos - rayOrigin);
-        float specular = pow(max(dot(reflection, viewDirection), 0), 16);
-
-        return (diffuse * float3(1,0,0)) + (specular * float3(1,1,1));
-    }
-
-    opacityMask = 1;
-    rayOrigin += rayStep;
-}
-
-opacityMask = 0;
-return float3(0,0,0);
-}
-#line 2593 "/Engine/Generated/Material.ush"
+#line 2540 "/Engine/Generated/Material.ush"
 float3  GetMaterialNormalRaw(FPixelMaterialInputs PixelMaterialInputs)
 {
 	return PixelMaterialInputs.Normal;
@@ -14718,22 +14665,22 @@ float  GetMaterialOpacityRaw(FPixelMaterialInputs PixelMaterialInputs)
 {
 	return PixelMaterialInputs.Opacity;
 }
-#line 2783 "/Engine/Generated/Material.ush"
+#line 2730 "/Engine/Generated/Material.ush"
 float  GetMaterialOpacity(FPixelMaterialInputs PixelMaterialInputs)
 {
 
 	return saturate(GetMaterialOpacityRaw(PixelMaterialInputs));
 }
-#line 2803 "/Engine/Generated/Material.ush"
+#line 2750 "/Engine/Generated/Material.ush"
 precise float3  GetMaterialWorldPositionOffset(FMaterialVertexParameters Parameters)
 {
-#line 2812 "/Engine/Generated/Material.ush"
+#line 2759 "/Engine/Generated/Material.ush"
 	return  float3 (0.00000000,0.0f,0.0f);;
 }
 
 precise float3  GetMaterialPreviousWorldPositionOffset(FMaterialVertexParameters Parameters)
 {
-#line 2824 "/Engine/Generated/Material.ush"
+#line 2771 "/Engine/Generated/Material.ush"
 	return  float3 (0.00000000,0.0f,0.0f);;
 }
 
@@ -14775,12 +14722,12 @@ float2  GetMaterialRefraction(FPixelMaterialInputs PixelMaterialInputs)
 {
 	return PixelMaterialInputs.Refraction;
 }
-#line 2878 "/Engine/Generated/Material.ush"
+#line 2825 "/Engine/Generated/Material.ush"
 float GetMaterialPixelDepthOffset(FPixelMaterialInputs PixelMaterialInputs)
 {
 	return PixelMaterialInputs.PixelDepthOffset;
 }
-#line 2900 "/Engine/Generated/Material.ush"
+#line 2847 "/Engine/Generated/Material.ush"
 float3 TransformTangentNormalToWorld( float3x3  TangentToWorld, float3 TangentNormal)
 {
 	return normalize(float3(TransformTangentVectorToWorld(TangentToWorld, TangentNormal)));
@@ -14791,9 +14738,9 @@ float3 TransformTangentNormalToWorld( float3x3  TangentToWorld, float3 TangentNo
 float3 CalculateAnisotropyTangent(in out FMaterialPixelParameters Parameters, FPixelMaterialInputs PixelMaterialInputs)
 {
 	float3 Normal = Parameters.WorldNormal;
-#line 2918 "/Engine/Generated/Material.ush"
+#line 2865 "/Engine/Generated/Material.ush"
 	float3 Tangent = GetMaterialTangent(PixelMaterialInputs);
-#line 2928 "/Engine/Generated/Material.ush"
+#line 2875 "/Engine/Generated/Material.ush"
 	float3 BiTangent = cross(Normal, Tangent);
 	Tangent = normalize(cross(BiTangent, Normal));
 
@@ -14862,11 +14809,11 @@ void CalcPixelMaterialInputs(in out FMaterialPixelParameters Parameters, in out 
 
 
 	PixelMaterialInputs.Normal =  float3 (1.00000000,0.0f,0.0f);
-#line 3003 "/Engine/Generated/Material.ush"
+#line 2950 "/Engine/Generated/Material.ush"
 	float3 MaterialNormal = GetMaterialNormal(Parameters, PixelMaterialInputs);
-#line 3021 "/Engine/Generated/Material.ush"
+#line 2968 "/Engine/Generated/Material.ush"
 	Parameters.WorldNormal = normalize(MaterialNormal);
-#line 3030 "/Engine/Generated/Material.ush"
+#line 2977 "/Engine/Generated/Material.ush"
 	Parameters.ReflectionVector = ReflectionAboutCustomWorldNormal(Parameters, Parameters.WorldNormal, false);
 
 
@@ -14874,14 +14821,11 @@ void CalcPixelMaterialInputs(in out FMaterialPixelParameters Parameters, in out 
 
 
 
-	FLWCVector3 Local0 = GetWorldPosition(Parameters);
-	FLWCVector3 Local1 = LWCSubtract( Local0 , GetObjectWorldPosition(Parameters));
-	float  Local2 = 0.0f;
-	float3  Local3 = CustomExpression0(Parameters,LWCToFloat( Local1 ), Local1 ,Parameters.CameraVector, float3 (0.00000000,0.00000000,0.00000000),100.00000000, float3 (-1.00000000,-1.00000000,1.00000000),Local2);
-	float3  Local4 = max(Local3,(( float3 )0.00000000));
-	float3  Local5 = PositiveClampedPow(Local4,(( float3 )0.45454544));
+	float3  Local0 = CustomExpression0(Parameters,Parameters.TangentToWorld[2]);
+	float3  Local1 = max(Local0,(( float3 )0.00000000));
+	float3  Local2 = PositiveClampedPow(Local1,(( float3 )0.45454544));
 
-	PixelMaterialInputs.EmissiveColor = Local5;
+	PixelMaterialInputs.EmissiveColor = Local2;
 	PixelMaterialInputs.Opacity = 1.00000000;
 	PixelMaterialInputs.OpacityMask = 1.00000000;
 	PixelMaterialInputs.BaseColor =  float3 (1.00000000,0.0f,0.0f);
@@ -14901,7 +14845,7 @@ void CalcPixelMaterialInputs(in out FMaterialPixelParameters Parameters, in out 
 
 
 	Parameters.WorldTangent = CalculateAnisotropyTangent(Parameters, PixelMaterialInputs);
-#line 3067 "/Engine/Generated/Material.ush"
+#line 3011 "/Engine/Generated/Material.ush"
 }
 #line 2910 "/Engine/Generated/Material.ush"
 
