@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process/why.md",
+                "file": "Process/Proto Glod - Production Schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,9 +63,9 @@
               "state": {
                 "file": "Ideation/moodboards/reference/Obsidian - metahuman character moodboard.canvas",
                 "viewState": {
-                  "x": 2065.4564863539636,
-                  "y": -534.6334254940948,
-                  "zoom": -0.6546769286579719
+                  "x": 3102.3267909293154,
+                  "y": -246.87613426057436,
+                  "zoom": -1.5955956449743933
                 }
               }
             }
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Process/process-documents/UE-knoledge-base/HLSL - Material shader effects.md",
+                "file": "Process/Proto Glod - Production Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Process/process-documents/UE-knoledge-base/HLSL - Material shader effects.md",
+                "file": "Process/Proto Glod - Production Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/process-documents/UE-knoledge-base/HLSL - Material shader effects.md"
+                "file": "Process/Proto Glod - Production Schedule.md"
               }
             }
           }
@@ -211,35 +211,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06a34cc84dcb4126",
+  "active": "34f74342e83ed79b",
   "lastOpenFiles": [
+    "Process/why.md",
+    "Process/journal.md",
+    "Ideation/moodboards/reference/Obsidian - metahuman character moodboard.canvas",
+    "Process/process-documents/UE-knoledge-base/HLSL - Material shader effects.md",
+    "UE5 Rendering pipeline.md",
+    "BeginPlay_Rendering_Schematic.png",
     "ProtoGlod_Play/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/OG/E0RO5HEX8JEXZRSOR8DVUP.uasset",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/07/U4YQ0CQD9J4S2ZLU55J3D2_Auto1.uasset",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/07",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FT/JBR1SINKPJG1WPHQQL7MG2_Auto1.uasset",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FT",
-    "Ideation/moodboards/reference/Obsidian - metahuman character moodboard.canvas",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WS/JGERKXDV5B22CO434DGWPY_Auto1.uasset",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WS",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/H4/MCORKIPJLH3BHVIFMZRWPP_Auto1.uasset",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/H4",
     "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/EU/FOG64KLZG6SWI1WD0VVIJA_Auto1.uasset",
-    "ProtoGlod_Play/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/EU",
-    "Process/journal.md",
-    "Process/process-documents/UE-knoledge-base/HLSL - Material shader effects.md",
     "Scanline_MatGraph.png",
     "TexDistort_MatGraph.png",
     "TexDistort_Code.png",
     "Process/process-documents/UE-knoledge-base/Mesh Swap Implementation - Core Gameplay Mechanic.md",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/HLSL_Example_TexDistort.png",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/WobbleSphere_01.png",
-    "Process/why.md",
     "Development/narrative-design/Proto-glod - script.md",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/Wobblesphere_03.png",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/WobbleSphere_02.png",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/HLSL_Test (5).png",
     "Process/process-documents/UE-knoledge-base/ue5-screenshots/HLSL_Test (4).png",
-    "Process/process-documents/UE-knoledge-base/ue5-screenshots/HLSL_Test (3).png",
     "Process/process-documents/UE-knoledge-base/Templates/Atomic idea - Template.md",
     "Process/process-documents/UE-knoledge-base/geometry tools & scripts - Epic live stream.md",
     "Process/process-documents/UE-knoledge-base/World Position - Gradient Material.md",
@@ -258,7 +258,6 @@
     "Process/process-documents/UE-knoledge-base/Constructing a Concrete Floor piece & Destroyed variants.md",
     "Process/process-documents/UE-knoledge-base/Click on Actors - Blueprints.md",
     "Process/process-documents/UE-knoledge-base/Click Events On Static Mesh Components.md",
-    "Process/process-documents/UE-knoledge-base/Casting - Blueprint Communication.md",
-    "Process/process-documents/UE-knoledge-base/Blueprint Interfaces - Blueprint Communication.md"
+    "Process/process-documents/UE-knoledge-base/Casting - Blueprint Communication.md"
   ]
 }

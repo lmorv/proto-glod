@@ -6,6 +6,7 @@ Tags: [[hlsl]],  [[shaders]]
 ---
 **References  / Sources:
 - https://youtu.be/lsXB1PQdGx0?si=Z1NWkQlfuJZh0wBs | Technical shading playlist by renderBucket
+- https://docs.unrealengine.com/5.2/en-US/placing-material-expressions-and-functions-in-unreal-engine/  | Placing Material Expressions and Functions
 ---
 
 # Texture Distort - ProtoGlod implementation:
